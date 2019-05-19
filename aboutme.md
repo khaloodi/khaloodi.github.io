@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Passionate about predictive modeling
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Khaled. Here is my toolkit:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+-Hypothesis testing and sample size determination in Python (Matplotlib, Pandas, NumPy, SciPy)
+-TensorFlow and Java tools (Weka) for machine learning, deep learning and neural network modeling
+-Dashboards and storytelling in Tableau and MS Excel 
+-Pivot tables, ERP modeling, "what if" scenarios, Goal Seek, Solver
+-Advanced databases and statistics
+-SQL, ETL, regression, classification, clustering and more
 
 What else do you need?
 
