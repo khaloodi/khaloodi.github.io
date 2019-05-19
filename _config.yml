@@ -71,18 +71,18 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  rss: false
+  email: "khaledadad@gmail.com"
+  facebook: "https://www.facebook.com/pivotpoynt/"
+  github: "https://github.com/khaloodi"
+  twitter: "https://twitter.com/pivotpoynt"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/khaledadad/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: "https://www.instagram.com/khaledadad/"
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -94,7 +94,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
