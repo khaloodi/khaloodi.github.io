@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Passionate about predictive modeling
+title: Khaled Adad
+subtitle: Data Scientist | Data Engineer
 ---
 
 My name is Khaled. Here is my toolkit:
