@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Khaled Adad
-subtitle: Data Scientist | Data Engineer
+subtitle: Chicago, IL
 ---
 
 My name is Khaled. Here is my toolkit:
