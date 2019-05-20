@@ -72,9 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "khaledadad@gmail.com"
-  facebook: "www.facebook.com/pivotpoynt/"
-  github: "github.com/khaloodi"
-  twitter: "twitter.com/pivotpoynt"
+  facebook: pivotpoynt
+  github: khaloodi
+  twitter: pivotpoynt
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: "https://www.linkedin.com/in/khaledadad/"
