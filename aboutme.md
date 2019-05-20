@@ -4,7 +4,7 @@ title: Khaled Adad
 subtitle: Chicago, IL
 ---
 
-My name is Khaled. Here is my toolkit:
+My name is Khaled. This is my toolkit:
 
 - Hypothesis testing and principle component analysis in Python (Matplotlib, Pandas, NumPy, SciPy)
 - TensorFlow and Java tools (Weka) for machine learning, deep learning and neural network modeling
