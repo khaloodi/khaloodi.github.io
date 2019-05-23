@@ -14,4 +14,4 @@ I learned about:
 - Pandas data wrangling and crosstabs
 - Matplotlib, Seaborn, and Pandas plotting
 
-The entire notebook, including code and comments, can be found here [My Colab Notebook]('https://colab.research.google.com/drive/1xpLPdS5h3tcNu5Dv2igSl3nvvLWciMDK').
+The entire notebook, including code and comments, can be found here [My Colab Notebook](https://colab.research.google.com/drive/1xpLPdS5h3tcNu5Dv2igSl3nvvLWciMDK).
