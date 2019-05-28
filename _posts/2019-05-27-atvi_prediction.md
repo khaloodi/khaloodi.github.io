@@ -9,8 +9,8 @@ bigimg: /img/activision_blizzard.jpg
 ![](/img/atvi_projection.png)
 
 I practiced:
-- Forcasting financial data in Python
-- Matplotlib, Seaborn, Pandas plotting
+- Forecasting financial data in Python
+- Connecting to Yahoo Finance API 
 - Working with time series data
 
 The entire notebook, including code and comments, can be found here [My Colab Notebook](https://colab.research.google.com/drive/18L1rPyyiRKvEzj3oZ98uv5ltCKfCGrWD).
