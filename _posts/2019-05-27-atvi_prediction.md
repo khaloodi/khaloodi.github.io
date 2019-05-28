@@ -9,7 +9,7 @@ bigimg: /img/activision_blizzard.jpg
 ![](/img/atvi_projection.png)
 
 I practiced:
-- Making forecasts with the prophet library
+- Forcasting with Prophet in Python
 - Matplotlib, Seaborn, and Pandas plotting
 - Working with time series data
 
