@@ -6,7 +6,7 @@ image: /img/activision.jpg
 bigimg: /img/activision_blizzard.jpg
 ---
 <h3>Plotting adjusted Close</h3>
-<h4>01-01-2019 to 10/27/2019</h4>
+<h4>01/01/2019 to 10/27/2019</h4>
 ![](/img/atvi_projection.png)
 
 I practiced:
