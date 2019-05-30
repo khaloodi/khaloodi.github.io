@@ -2,7 +2,7 @@
 layout: post
 title: Activision Blizzard Projection 
 subtitle: Bullish Reversal?
-image: /img/Blizzard.png
+image: /img/Blizzard.jpg
 bigimg: /img/activision_blizzard.jpg
 ---
 Adjusted Closing Prices 01/01/2019 to 10/27/2019
