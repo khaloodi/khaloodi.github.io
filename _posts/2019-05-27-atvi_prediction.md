@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Activision Blizzard Projection 
-subtitle: Bullish Reversal?
+title: Prophet Time Series Forecasting 
+subtitle: ATVI vs SPY
 image: /img/Blizzard.jpg
 bigimg: /img/activision_blizzard.jpg
 ---
