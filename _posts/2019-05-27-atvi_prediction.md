@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prophet Time Series Forecasting 
-subtitle: ATVI vs SPY
+subtitle: Additive time series modeling
 image: /img/Blizzard.jpg
 bigimg: /img/activision_blizzard.jpg
 ---
