@@ -2,8 +2,7 @@
 layout: post
 title: Who Got To Be Guests On 'The Daily Show'?
 subtitle: I recreated this visualization from FiveThirtyEight
-image: /img/my538.png
-bigimg: /img/Obama_Daily_Show.jpg
+image: /img/Obama_Daily_Show.jpg
 ---
 
 As a learning experience, I recreated this data visualization from FiveThirtyEight's article, [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](https://fivethirtyeight.com/features/every-guest-jon-stewart-ever-had-on-the-daily-show/).
