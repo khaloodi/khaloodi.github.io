@@ -3,7 +3,6 @@ layout: post
 title: Prophet Time Series Forecasting 
 subtitle: Additive time series modeling
 image: /img/Blizzard.jpg
-bigimg: /img/activision_blizzard.jpg
 ---
 
 Financial prices, weather, home energy usage, and even weight are all examples of data that can be collected at regular intervals. 
