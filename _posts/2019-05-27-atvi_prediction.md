@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prophet Time Series Forecasting 
+title: Time Series Forecasting 
 subtitle: Additive time series modeling
 image: /img/Blizzard.jpg
 ---
