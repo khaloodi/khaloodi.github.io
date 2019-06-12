@@ -2,7 +2,6 @@
 layout: post
 title: Time Series Forecasting 
 subtitle: Additive time series modeling
-image: /img/Blizzard.jpg
 ---
 
 Financial prices, weather, home energy usage, and even weight are all examples of data that can be collected at regular intervals. 
