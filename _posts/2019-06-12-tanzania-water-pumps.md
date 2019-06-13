@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicting The Functional Status of Pumps in Tanzania
-subtitle: My First Kaggle Competition
+subtitle: My first Kaggle competition
 ---
 
 Increasing population growth and urbanization pose serious pressure on the quantity and quality of available water. The sustainability of the present and future human life and environment depends mainly on proper water resources management.
