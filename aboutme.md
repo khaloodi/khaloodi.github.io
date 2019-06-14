@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Khaled Adad
+subtitle: Data Scientist 
+bigimg: /img/Chicago.jpg
 ---
 
 <b>Data science toolkit:</b>
