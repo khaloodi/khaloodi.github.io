@@ -36,5 +36,5 @@ Another way to visualize the tree:
 ![](/img/visualize_tree.png)
 ![](/img/random_forest.png)
 
-Using ordinal-encoding (as opposed to one-hot) coupled with the power of random forests yields a final overall validation accuracy score of 80.9%.
+Using ordinal-encoding (as opposed to one-hot) coupled with the power of random forests yields a final overall validation accuracy score of 81%.
 
