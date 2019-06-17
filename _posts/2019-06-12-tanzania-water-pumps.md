@@ -27,4 +27,14 @@ Scikit-learn's pipeline method is then used to manage the fit and transform oper
 
 ![](/img/pipeline.png)
 
-<aside>The code above depicts Scikit-learn's pipeline process.</aside>
+The code above depicts scikit-learn's pipeline process showcasing yet another increase in the model's overall accuracy score. Using the pipeline method and one-hot encoding to transform categorical variables into numeric fields yields a validation accuracy of 77.1%. Taking a look at the model's sorted feature importances provides deeper understanding of its predictive patterns.
+
+![](/img/feature_importances.png)
+
+Another way to visualize the tree:
+
+![](/img/visualize_tree.png)
+![](/img/random_forest.png)
+
+Using ordinal-encoding (as opposed to one-hot) coupled with the power of random forests yields a final overall validation accuracy score of 80.9%.
+
