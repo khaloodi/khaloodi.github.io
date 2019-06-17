@@ -23,7 +23,8 @@ Next, [the category encoders library](https://contrib.scikit-learn.org/categoric
 
 As we can see the model's accuracy score increases to 65.8%.
 
-Scikit-learn's pipeline method is then used to manage the fit and transform operations on our split datasets. as opposed to using encoders and scalers in scikit-learn (shown above). 
+Scikit-learn's pipeline method is then used to manage the fit and transform operations on our split datasets. as opposed to using encoders and scalers in scikit-learn as shown above. 
 
+![](/img/pipeline.png)
 
-
+<aside>The code above depicts Scikit-learn's pipeline process.</aside>
