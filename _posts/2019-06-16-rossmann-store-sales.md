@@ -12,3 +12,11 @@ Store sales are influenced by many factors, including promotions, competition, s
 As a preprocessing step, sales (the variable I am trying to predict) is log transformed. This is done in order to make the y-variable's distribution symmetric. 
 
 ![](/img/logging.png)
+
+After the data is wrangled I use scikit-learn's pipeline method combined with a random forest to fit an initial model that beats a basic mean baseline. The estimated baseline Root Mean Squared Logarithmic Error is 0.90, assuming the mean sales for every prediction. 
+
+![](/img/rf1.png)
+![](/img/rf2.png)
+
+Remember that RMSE with the log-transformed target is equivalent to RMSLE with the original target.
+
