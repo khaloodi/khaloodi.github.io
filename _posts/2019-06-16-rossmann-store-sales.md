@@ -18,5 +18,6 @@ After the data is wrangled I use scikit-learn's pipeline method combined with a 
 ![](/img/rf1.png)
 ![](/img/rf2.png)
 
-Remember that RMSE with the log-transformed target is equivalent to RMSLE with the original target.
+Remember that RMSE with the log-transformed target is equivalent to RMSLE with the original target. Which columns have the greatest predictive power?
 
+![](/img/fiross.png)
