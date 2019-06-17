@@ -21,3 +21,13 @@ After the data is wrangled I use scikit-learn's pipeline method combined with a 
 Remember that RMSE with the log-transformed target is equivalent to RMSLE with the original target. Which columns have the greatest predictive power?
 
 ![](/img/fiross.png)
+
+Masking in order to include only the features whose weight is greater than 0:
+
+![](/img/masking.png)
+
+Partial Dependence Plots:
+
+![](/img/pdp_customers.png)
+![](/img/pdp_store.png)
+![](/img/pdp_promo.png)
