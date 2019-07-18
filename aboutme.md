@@ -12,6 +12,7 @@ bigimg: /img/Chicago.jpg
 	<li>TensorFlow, Weka, keras and scikit-learn for machine learning, deep learning and neural network modeling</li>
 	<li>Dashboards and storytelling in Tableau and MS Excel </li>
 	<li>Pivot tables, ERP modeling, "what if" scenarios, Goal Seek, Solver</li>
-	<li>Advanced databases and statistics including hypothesis testing and principle component analysis </li>
+	<li>Advanced databases and statistics including hypothesis testing and PCA </li>
+	<li>Cloud computing, virtual machines and containerization tools: Docker, Pipenv, Kubernetes</li>
 	<li>SQL, ETL, regression, classification, clustering and more</li>
 </ul>	
