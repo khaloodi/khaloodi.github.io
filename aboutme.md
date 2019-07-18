@@ -13,6 +13,6 @@ bigimg: /img/Chicago.jpg
 	<li>Dashboards and storytelling in Tableau and MS Excel </li>
 	<li>Pivot tables, ERP modeling, "what if" scenarios, Goal Seek, Solver</li>
 	<li>Advanced databases and statistics including hypothesis testing and PCA </li>
-	<li>Cloud computing, virtual machines and containerization tools: Docker, Pipenv, Kubernetes</li>
+	<li>Virtual machines and containerization tools including Docker, Pipenv, Kubernetes to spin-up portable ML environments at scale on prem or in the cloud</li>
 	<li>SQL, ETL, regression, classification, clustering and more</li>
 </ul>	
