@@ -5,7 +5,7 @@ subtitle: Information Enthusiast
 ---
 ![me](/img/IMG_6321 (1).jpg)
 
-Data scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include deep learning and nearal nets, machine learning, cloud computing -anything wrapped in Python. 
+Data scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include deep learning and neural nets, machine learning, cloud computing -anything wrapped in Python. 
 
 This past year I...
 
