@@ -11,7 +11,7 @@ This past year I...
 
 - Collaborated on an anomally detection project involved in international, weapons deals for a non-profit C4ADS - Detecting Diversion (signed non disclosure).
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view) is a web app that analyzes World Bank data and generates an gif that visualizes a simple linear regression model using scikit-learn and Folium. 
-- [Capstone Project](khaledadad.com/capstone) for grad school. Generate 5k+ randomized portfolios composed of the most bullish tech stocks of the S&P 500. Preprocess financial data and determine maximum efficiency.
+- [Capstone Project](/capstone) for grad school. Generate 5k+ randomized portfolios composed of the most bullish tech stocks of the S&P 500. Preprocess financial data and determine maximum efficiency.
 
 **Data Science Toolkit:**
 - Programming and statistical computing in Python
