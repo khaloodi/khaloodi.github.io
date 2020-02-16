@@ -24,7 +24,8 @@ This past year I...
 - SQL, ETL, regression, classification, clustering and more
 
 **Certifications:**
-- Tableau Desktop Specialist, AWS Solutions Architect (in progress) 
+- Tableau Desktop Specialist 
+- AWS Solutions Architect (in progress) 
 
 **Education:**
 - Lambda School, Data Science & Machine Learning
