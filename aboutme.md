@@ -12,7 +12,7 @@ This past year I...
 - collaborated on an anomally detection project involving international weapons deals, among other foreign military transactions. Details of the project and findings are the property of non-profit C4ADS - Detecting Diversion (signed non-disclosure).
 - deployed [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to predict global deforastation for the next decade. Regression models generated and tested in scikit-learn, maps made using Folium.
 - submitted my [capstone project](/capstone) for graduate school. It generates 5k+ randomized portfolios composed of the S&P 500's most bullish tech stocks in 2019. Preprocessed and normalized financial data, to calculate an efficient frontier.
-- built my [first web app](https://youtube-u.netlify.com/index.html) with a team of developers. The project used YouTube's api to create a "mock" educational version of the site. 
+- built my [first web app](https://youtube-u.netlify.com/index.html) with a team of developers. The project used YouTube's api to create a version of the streaming web app geared towards education. The project repo can be found [here](https://github.com/youtube-u).
 
 **Data Science Toolkit:**
 - Programming and statistical computing in Python
