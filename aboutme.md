@@ -9,9 +9,9 @@ Data Scientist with a background in banking and finance. Generally curious perso
 
 This past year I...
 
-- collaborated on an anomally detection project involved in international, weapons deals for a non-profit C4ADS - Detecting Diversion (signed non disclosure).
-- deployed a web app called [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to analyze World Bank data. The app uses Folium to generate heatmaps for a linear regression model built in scikit-learn.
-- submitted my [capstone project](/capstone) for graduate school. I generated 5k+ randomized portfolios composed of the most bullish tech stocks of the S&P 500 in 2019. Preprocessed and normalized financial data, to calculate efficient frontier.
+- collaborated on an anomally detection project involving international weapons deals, among other foreign military transactions. Details of the project and findings are the property of non-profit C4ADS - Detecting Diversion (signed non-disclosure).
+- deployed a web app and [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to predict global deforastation for the next decade. Regression models generated and tested in scikit-learn, maps made using Folium.
+- submitted my [capstone project](/capstone) for graduate school. It generates 5k+ randomized portfolios composed of the S&P 500's most bullish tech stocks in 2019. Preprocessed and normalized financial data, to calculate an efficient frontier.
 
 **Data Science Toolkit:**
 - Programming and statistical computing in Python
@@ -27,9 +27,6 @@ This past year I...
 - Tableau Desktop Specialist 
 
 **Education:**
-- BBA Economics
-    - Quinlan School of Business
-- MS Business Analytics 
-    - Lewis University
-- Data Science & Machine Learning
-    - Lambda School
+- Quinlan School of Business, BBA Economics
+- Lewis University, MS Business Analytics
+- Lambda School, Data Science & Machine Learning
