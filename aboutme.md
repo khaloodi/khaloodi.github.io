@@ -21,7 +21,7 @@ This past year I...
 - Pivot tables, ERP, "what if" scenarios, Goal Seek, Solver
 - Advanced databases and statistics including hypothesis testing and PCA 
 - Virtual machines and containerization tools including Pipenv, Docker, Kubernetes to spin-up portable environments at scale on prem or in the cloud
-- SQL, ETL, regression, classification, clustering and more...
+- SQL, ETL, regression, classification, clustering and more
 
 **Certifications:**
 - Tableau Desktop Specialist 
