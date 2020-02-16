@@ -1,12 +1,13 @@
 ---
 layout: page
 title: About Me
+subtitle: Information Enthusiast
 ---
 ![me!](/img/IMG_6321 (1).jpg)
 
 Data scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include Machine Learning, Blockchain and cloud technologies -especially anything with a Python wrapper. 
 
-Personal Goals:
+**Hobbies:**
 - Improving the conditions of impoverished communities
 - Learning from and appreciating our surroundings
 - Creating innovative solutions and understanding why they work
@@ -24,7 +25,7 @@ Personal Goals:
 **Education:**
 - BBA Economics
     - Quinlan School of Business, Loyola University Chicago
-- MSc. Business Analytics 
+- MS Business Analytics 
     - Lewis University
 - Lambda School 
-    - Nine month fellowship in Data Science Programming with Python
+    - Data Science Programming in Python
