@@ -2,7 +2,6 @@
 layout: post
 title: Predicting Rossman Store Sales
 subtitle: Yet another Kaggle competition
-image: img/kaggle_logo.png
 ---
 
 
