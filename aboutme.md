@@ -5,7 +5,7 @@ subtitle: Information Enthusiast
 ---
 ![me!](/img/IMG_6321 (1).jpg)
 
-Data scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include Machine Learning, Blockchain and cloud technologies -especially anything with a Python wrapper. 
+Data scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include deep learning and nearal nets, machine learning, cloud computing -anything wrapped in Python. 
 
 **Hobbies:**
 - Improving the conditions of impoverished communities
@@ -22,10 +22,13 @@ Data scientist with a background in banking and finance. Generally curious perso
 - Virtual machines and containerization tools including Docker, Pipenv, Kubernetes to spin-up portable ML environments at scale on prem or in the cloud
 - SQL, ETL, regression, classification, clustering and more
 
+**Certifications:**
+- Tableau Desktop Specialist
+
 **Education:**
 - BBA Economics
-    - Quinlan School of Business, Loyola University Chicago
+    - Quinlan School of Business
 - MS Business Analytics 
     - Lewis University
 - Lambda School 
-    - Data Science Programming in Python
+    - Data Science & Machine Learning
