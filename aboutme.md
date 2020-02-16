@@ -21,4 +21,4 @@ Recently I...
 **Education:**
 - Lambda School, Data Science
 - Lewis University, MS Business Analytics
-- Quinlan School of Business, BBA Econ.
+- Loyola University Chicago, BBA Economics
