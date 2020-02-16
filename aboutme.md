@@ -27,6 +27,6 @@ This past year I...
 - Tableau Desktop Specialist 
 
 **Education:**
-- Quinlan School of Business, BBA Economics
-- Lewis University, MS Business Analytics
 - Lambda School, Data Science & Machine Learning
+- Lewis University, MS Business Analytics
+- Quinlan School of Business, BBA Economics
