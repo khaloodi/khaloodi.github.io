@@ -3,14 +3,15 @@ layout: page
 title: About Me
 subtitle: Information Enthusiast
 ---
-![me!](/img/IMG_6321 (1).jpg)
+![me](/img/IMG_6321 (1).jpg)
 
 Data scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include deep learning and nearal nets, machine learning, cloud computing -anything wrapped in Python. 
 
-**Hobbies:**
-- Improving the conditions of impoverished communities
-- Learning from and appreciating our surroundings
-- Creating innovative solutions and understanding why they work
+This past year I...
+
+- Collaborated on an anomally detection and international trade project for a non-profit C4ADS - Detecting Diversion
+- [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view is a web app that analyzes World Bank data and generates an gif that visualizes a simple linear regression model using scikit-learn and Folium. 
+- [Capstone Project](khaledadad.com/capstone) for grad school. Generate 5k+ randomized portfolios composed of the most bullish tech stocks of the S&P 500. Preprocess financial data and determine maximum efficiency.
 
 **Data Science Toolkit:**
 - Programming and statistical computing in Python
