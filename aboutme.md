@@ -10,8 +10,8 @@ Data Scientist with a background in banking and finance. Generally curious perso
 This past year I...
 
 - collaborated on an anomally detection project involved in international, weapons deals for a non-profit C4ADS - Detecting Diversion (signed non disclosure).
-- deployed a web app [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view) using Python. Our app analyzes World Bank data to visualize linear regression in scikit-learn using Folium using gifs.
-- submitted my [capstone project](/capstone) for grad school. Generate 5k+ randomized portfolios composed of the most bullish tech stocks in the S&P 500, 2019. Preprocess and normalize financial data, interactive charts in Plotly, and calculating an efficient frontier.
+- deployed a web app called [Deforestation Dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to analyze World Bank data. The app uses Folium to generate heatmaps for a linear regression model built in scikit-learn.
+- submitted my [capstone project](/capstone) for graduate school. I generated 5k+ randomized portfolios composed of the most bullish tech stocks of the S&P 500 in 2019. Preprocessed and normalized financial data, to calculate efficient frontier.
 
 **Data Science Toolkit:**
 - Programming and statistical computing in Python
