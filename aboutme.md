@@ -31,5 +31,5 @@ This past year I...
     - Quinlan School of Business
 - MS Business Analytics 
     - Lewis University
-- Lambda School 
-    - Data Science & Machine Learning
+- Data Science & Machine Learning
+    - Lambda School
