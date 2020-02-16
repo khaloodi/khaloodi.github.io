@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Khaled Adad
-subtitle: Data Scientist | Pythonista
-bigimg: /img/Chicago.jpg
+title: About Me
 ---
 
 <b>Data science toolkit:</b>
