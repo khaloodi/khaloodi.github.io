@@ -19,6 +19,6 @@ Recently I...
 - AWS Solutions Architect (in progress) 
 
 **Education:**
-- Lambda School, Data Science & Machine Learning
+- Lambda School, Data Science
 - Lewis University, MS Business Analytics
-- Quinlan School of Business, BBA Economics
+- Quinlan School of Business, BBA Econ.
