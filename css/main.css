@@ -449,11 +449,10 @@ footer .theme-by {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 51px; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 35px;
   
   /* Set a specific height */
-  min-height: 90%; 
+  min-height: 85%; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
