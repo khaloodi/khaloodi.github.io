@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About Me
-subtitle: Information Enthusiast
 ---
-![me](/img/IMG_6321 (1).jpg)
 
-Data Scientist with a background in banking and finance. Generally curious person and tinkerer of all things tech. My interests include deep learning and neural nets, machine learning, cloud computing -anything wrapped in Python. 
+Hi! I'm Khaled (KUH-led), a software development professional with a background in business analytics and data science. When I'm not deploying performant solutions to satisfy business needs, I am sketching or designing my next project.
 
-Recently I...
+My philosophy on teamwork embodies agile methodology and CD/CI. Currently working on deploying as many React Apps as possible, as well as improving my cloud skills. 
 
+Accomplishments:
+2019
 - collaborated on an anomally detection project involving international weapons deals, among other foreign military transactions. Details of the project and findings are the property of non-profit C4ADS - Detecting Diversion (signed non-disclosure).
 - deployed a [deforestation dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to predict and plot global deforestation. Mulitple linear regression in scikit-learn and geographic visualization using Folium.
 - submitted my [capstone project](/capstone) for graduate school. Generated 5k+ randomized portfolios composed of the S&P 500's most bullish tech stocks in 2019. Preprocessed and normalized financial data to calculate an efficient frontier.
