@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About Me
+title: Khaled Adad
+subtitle: "Full Stack Web & Software Developer"
 bigimg: "/img/AdobeStock_310039466.jpeg"
 ---
 
