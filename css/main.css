@@ -524,7 +524,19 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-  }
+    
+    /**************************/
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+   /**************************/
+  
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
