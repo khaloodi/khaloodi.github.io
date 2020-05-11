@@ -15,8 +15,9 @@ Accomplishments:
 - built my [first web app](https://youtube-u.netlify.com/index.html) with a team of developers. Our idea was to learn and use YouTube's api to create a version of the streaming web app geared towards education. The project repo can be found [here](https://github.com/youtube-u).
 
 **Certifications:**
-- Tableau Desktop Specialist 
+- AWS Cloud Practitioner
 - AWS Solutions Architect (in progress) 
+- Tableau Desktop Specialist 
 
 **Education:**
 - Lambda School, Data Science
