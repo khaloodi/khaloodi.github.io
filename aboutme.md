@@ -7,7 +7,7 @@ Hi! I'm Khaled (KUH-led), a software engineer with a background in business anal
 
 My philosophy on teamwork embodies agile methodology and CD/CI. Currently I'm working on deploying as many React Apps as possible, as well as improving my cloud-based tech skills. 
 
-Projects:
+Previous Work:
 
 2019
 - deployed a [deforestation dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to predict and plot global deforestation. Mulitple linear regression in scikit-learn and geographic visualization using Folium.
