@@ -452,7 +452,7 @@ footer .theme-by {
   margin-bottom: 35px;
   
   /* Set a specific height */
-  min-height: 700px; 
+  min-height: 80%; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -477,7 +477,7 @@ footer .theme-by {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 100px 0;
-  color: #FFF;
+  color: #EF626C;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
