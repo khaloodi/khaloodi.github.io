@@ -8,6 +8,7 @@ Hi! I'm Khaled (KUH-led), a software development professional with a background 
 My philosophy on teamwork embodies agile methodology and CD/CI. Currently working on deploying as many React Apps as possible, as well as improving my cloud skills. 
 
 Accomplishments:
+
 2019
 - collaborated on an anomally detection project involving international weapons deals, among other foreign military transactions. Details of the project and findings are the property of non-profit C4ADS - Detecting Diversion (signed non-disclosure).
 - deployed a [deforestation dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to predict and plot global deforestation. Mulitple linear regression in scikit-learn and geographic visualization using Folium.
