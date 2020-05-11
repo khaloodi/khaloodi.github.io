@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-bigimg: /img/Chicago.jpg
 ---
 
 Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not deploying performant solutions to satisfy business needs, I am wireframing or designing my next project.
