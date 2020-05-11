@@ -45,7 +45,7 @@ navbar-links:
 navbar-col: "#62caa9"
 navbar-text-col: "#404040"
 navbar-children-col: "#62caa9"
-page-col: "#EF626C"
+page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#EF626C"
 footer-col: "#62caa9"
