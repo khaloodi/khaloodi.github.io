@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hi! I'm Khaled (KUH-led), a software development professional with a background in business analytics and data science. When I'm not deploying performant solutions to satisfy business needs, I am sketching or designing my next project.
+Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not deploying performant solutions to satisfy business needs, I am sketching or designing my next project.
 
 My philosophy on teamwork embodies agile methodology and CD/CI. Currently working on deploying as many React Apps as possible, as well as improving my cloud skills. 
 
