@@ -527,7 +527,7 @@ footer .theme-by {
     
     /**************************/
     /* Set a specific height */
-    min-height: 85%; 
+    min-height: 1000px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
