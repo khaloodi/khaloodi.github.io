@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Khaled Adad
 subtitle: "Full Stack Web & Software Developer"
 ---
 
