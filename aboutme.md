@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Full Stack Web & Software Developer
+title: Software Engineer
 bigimg: '/img/aurora_borealis.jpg'
 ---
 
