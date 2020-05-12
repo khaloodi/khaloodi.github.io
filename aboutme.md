@@ -2,7 +2,6 @@
 layout: page
 title: Khaled Adad
 subtitle: "Full Stack Web & Software Developer"
-bigimg: "/img/AdobeStock_310039466.jpeg"
 ---
 
 Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not deploying performant solutions to satisfy business needs, I am wireframing or designing my next project.
