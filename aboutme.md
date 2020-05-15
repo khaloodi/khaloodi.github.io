@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Engineer
+title: About
 ---
 
 Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not writing performant React code you'll find me designing my next project. Agile developer experienced in OOP and CI/CD.
