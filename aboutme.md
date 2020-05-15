@@ -3,7 +3,7 @@ layout: page
 title: Software Engineer
 ---
 
-Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not writing performant React I am wireframing or designing my next project. Agile developer experienced in OOP and CI/CD.
+Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not writing performant React code you'll find me designing my next project. Agile developer experienced in OOP and CI/CD.
 
 **Projects:**
 
