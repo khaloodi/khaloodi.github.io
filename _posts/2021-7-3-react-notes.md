@@ -12,7 +12,7 @@ subtitle: Some notes from learning React
 
 - create an event handler that updates the value state
 
-Component Lifecycle
+## Component Lifecycle
 
 - every component instance follows a cycle: it’s mounted onto the DOM, it’s updated with changes in data, and it’s unmounted from the DOM 
 
