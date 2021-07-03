@@ -41,12 +41,14 @@ subtitle: Some notes from learning React
 ## Updating State
 
 - Without a function (use if state doesn’t depend on previous state)
+
 `
 this.setState({
 	username: ‘Tyler’
 })
 `
 - With a functions (use if state does depend on previous state)
+
 `
 this.setState( (prevState)=>({
 	count: prevState.count + 1
