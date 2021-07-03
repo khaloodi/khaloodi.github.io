@@ -1,7 +1,6 @@
 ---
 layout: post
 title: React Notes
-subtitle: Some notes from learning React
 ---
 
 ## Handling Form Input React (steps)
