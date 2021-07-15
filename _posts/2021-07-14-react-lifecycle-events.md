@@ -1,7 +1,7 @@
 ---
 layout: post
 title: React Lifecycle Events
-subtitle: `render()` Is For Rendering, Only!
+subtitle: render() Is For Rendering, Only!
 ---
 
 
