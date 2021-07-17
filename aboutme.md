@@ -26,7 +26,3 @@ title: The Sauce
 - AWS Cloud Practitioner
 - Team Treehouse Full Stack JavaScript (in progress) 
 - Udacity NanoDegree in React (in progress) 
-
-**Social:**
-[![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
-[![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
