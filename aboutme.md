@@ -23,6 +23,6 @@ title: The Sauce
 - [Stock Portfolio Analysis](https://www.khaledadad.com/capstone)
 
 **Certifications:**
-- AWS Cloud Practitioner
+- [AWS Cloud Practitioner](https://www.credly.com/badges/cd070c6f-5c53-46c1-9e34-1eecf3d0aace/linked_in_profile)
 - Team Treehouse Full Stack JavaScript (in progress) 
 - Udacity NanoDegree in React (in progress) 
