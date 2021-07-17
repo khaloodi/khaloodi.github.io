@@ -3,15 +3,34 @@ layout: page
 title: About Me
 ---
 
-Hi! I'm Khaled (KUH-led), a software engineer with a background in business analytics and data science. When I'm not writing performant React code you'll find me designing my next project. Agile developer experienced in OOP and CI/CD.
+**Hi, I'm Khaled, a passionate self-taught developer from Chicago.** 
+<br/>
+<br/>
 
-**Projects:**
+**Languages and Tools:**  
 
-- deployed a [deforestation dashboard](https://deforestationdashboard.netlify.com/map-view) that uses Python to predict and plot global deforestation. Mulitple linear regression in scikit-learn and geographic visualization using Folium.
-- submitted my [capstone project](/capstone) for graduate school. Generated 5k+ randomized portfolios composed of the S&P 500's most bullish tech stocks in 2019. Preprocessed and normalized financial data to calculate an efficient frontier.
-- built my [first web app](https://youtube-u.netlify.com/index.html) with a team of developers. Our idea was to learn and use YouTube's api to create a version of the streaming web app geared towards education. The project repo can be found [here](https://github.com/youtube-u).
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+### JavaScript Projects
+- [Node/Express Portfolio](https://ka-node-portfolio.herokuapp.com/) 
+- [Random User Generator](https://www.khaledadad.com/randomusers/)
+- [Phrase Hunter](https://www.khaledadad.com/phrasehunter/)
+- [Interactive Form](https://www.khaledadad.com/interactive-form/)
+- [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
+- [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
+
+### Lambda + Grad 
+- [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
+- [YouTube U](https://youtube-u.netlify.com/)
+- [Blog](https://www.khaledadad.com)
+- [Stock Portfolio Analysis](https://www.khaledadad.com/capstone)
 
 **Certifications:**
 - AWS Cloud Practitioner
-- AWS Solutions Architect (in progress) 
-- Tableau Desktop Specialist 
+- Team Treehouse Full Stack JavaScript (in progress) 
+- Udacity NanoDegree in React (in progress) 
+
+[![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
+[![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
