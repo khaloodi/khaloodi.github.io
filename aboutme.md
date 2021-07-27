@@ -15,7 +15,7 @@ title: Projects
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
 - [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
 
-### Python
+### Data Science (Python)
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Blog](https://www.khaledadad.com)
