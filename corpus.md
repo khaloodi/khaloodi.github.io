@@ -5,7 +5,7 @@ title: Projects
 
 ### React
 - [Gallery App](https://amazing-gallery-app.netlify.app)
-- [React Scoreboard ](https://khaled-react-scoreboard.netlify.app/)
+- [Scoreboard ](https://khaled-react-scoreboard.netlify.app/)
 
 ### JavaScript
 - [Node/Express Portfolio](https://ka-node-portfolio.herokuapp.com/) 
