@@ -42,13 +42,13 @@ description: 👽
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FF0000"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-children-col: "#03c9c9"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#FF0000"
-footer-col: "#4344e5"
+footer-col: "#FFFFFF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
