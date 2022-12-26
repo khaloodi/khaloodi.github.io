@@ -20,3 +20,12 @@ Generally speaking, the local setup of a stack can be complex, time consuming, a
 - RabbitMQ
 - Memchached
 - MySQL
+
+## Execution flow
+1. Setup tools
+2. Clone source code
+3. CD into vagrant dir
+4. Bring up VM's
+5. Validate
+6. Setup services listed above
+7. App build and deploy!
