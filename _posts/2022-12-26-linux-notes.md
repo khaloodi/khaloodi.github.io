@@ -40,3 +40,5 @@ subtitle: Some useful notes on linux shell and scripting
 <br>
 
 ### Filter & IO redirection command 
+
+To be continued folks...
