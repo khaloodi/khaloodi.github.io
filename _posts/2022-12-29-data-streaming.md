@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ingest Data from an RDS Instance into S3
-subtitle: Simple data streaming ingest using AWS DynamoDB + Kinesis
+subtitle: "Drinking from the firehose..."
 ---
 
 ![](/img/data_streaming.png)
