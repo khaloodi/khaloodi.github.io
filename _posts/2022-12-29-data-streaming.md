@@ -28,6 +28,8 @@ Next, you'll need to create an Amazon Kinesis Data Stream. To do this, you can u
 
 2.3. Enter a name for your data stream, and specify the number of shards you want to use. A shard is a unit of capacity in a Kinesis Data Stream, and you can choose the number of shards based on the amount of data you expect to ingest and the rate at which you want to process it.
 
+![](/img/data_streaming/shard_definition.png)
+
 2.4. Click the "Create data stream" button to create your data stream.
 
 Now you'll need to set up AWS Database Migration Service (DMS) to replicate data from the RDS instance to the Kinesis Data Stream. To do this, you'll need to create an Amazon DMS task.
