@@ -4,6 +4,8 @@ title: Ingest Data from an RDS Instance into S3
 subtitle: "Drinking from the firehose..."
 ---
 
+Video coming...
+
 ![](/img/data_streaming.png)
 
 A detailed walkthrough of the process of using Amazon Kinesis Data Streams to ingress data from an Amazon RDS instance to an Amazon S3 bucket:
