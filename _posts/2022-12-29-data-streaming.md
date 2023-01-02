@@ -71,7 +71,7 @@ Finally, you'll need to set up an Amazon Kinesis Data Firehose delivery stream t
 5.5. Choose "Amazon S3" as the destination, and select the S3 bucket you created earlier as the destination bucket.
 
 ### References:
-<br>
+
 - [Using Amazon Kinesis Data Streams as a target for AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Kinesis.html)
 - [Using Amazon Kinesis Data Streams as a target for AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Kinesis.html)
 - [Amazon Kinesis Data Streams Terminology and Concepts](https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html#shard)
