@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ingest Data from an RDS Instance into S3
-subtitle: "Drinking from the firehose..."
+title: Kinesis Data Streams
+subtitle: Ingest Data from an RDS Instance into S3
 ---
 
 Video coming...
