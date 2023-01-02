@@ -40,6 +40,8 @@ Next, you'll need to create an Amazon Kinesis Data Stream. To do this, you can u
 
 Now you'll need to set up AWS Database Migration Service (DMS) to replicate data from the RDS instance to the Kinesis Data Stream. To do this, you'll need to create an Amazon DMS task.
 
+![](/img/data_streaming/dms_task.png)
+
 3.1. Navigate to the AWS Database Migration Service dashboard in the AWS Management Console.
 
 3.2. Click the "Create task" button.
