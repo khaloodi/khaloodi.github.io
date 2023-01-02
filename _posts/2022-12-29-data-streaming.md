@@ -77,5 +77,8 @@ Finally, you'll need to set up an Amazon Kinesis Data Firehose delivery stream t
 - [Using Amazon Kinesis Data Streams as a target for AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Kinesis.html)
 - [Using Amazon Kinesis Data Streams as a target for AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Kinesis.html)
 - [Amazon Kinesis Data Streams Terminology and Concepts](https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html#shard)
+- [Creating a DMS Task](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html)
+- [AWS DMS Part 1](https://billthevestguy.com/2022/08/08/aws-database-migration-service-part-1-of-2/) 
+- [AWS DMS Part 2](https://billthevestguy.com/2022/08/09/aws-database-migration-service-part-2-of-2/)
 
 <br>
