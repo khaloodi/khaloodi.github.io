@@ -6,7 +6,7 @@ subtitle: "Drinking from the firehose..."
 
 Video coming...
 
-## Ingest Data from an RDS Instance into S3
+### Ingest Data from an RDS Instance into S3
 
 ![](/img/data_streaming/kinesis_firehose.png)
 
@@ -20,6 +20,7 @@ First, you'll need to create an Amazon RDS instance and a database within it. To
 
 1.3. Choose the database engine you want to use (e.g. MySQL, PostgreSQL, etc.), and follow the prompts to set up your RDS instance and database. Make sure to create a database user with the necessary permissions to read data from the database.
 
+### Steps 1.1 - 1.3:
 ![](/img/data_streaming/steps_1_3.gif)
 
 Next, you'll need to create an Amazon Kinesis Data Stream. To do this, you can use the AWS Management Console.
@@ -34,6 +35,7 @@ Next, you'll need to create an Amazon Kinesis Data Stream. To do this, you can u
 
 2.4. Click the "Create data stream" button to create your data stream.
 
+### Steps 2.1 - 2.4:
 ![](/img/data_streaming/step_2.gif)
 
 ![](/img/data_streaming/kinesis_data_streams.png)
