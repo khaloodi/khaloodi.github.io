@@ -44,6 +44,8 @@ Now you'll need to set up AWS Database Migration Service (DMS) to replicate data
 
 ![](/img/data_streaming/dms_task.png)
 
+![](/img/data_streaming/dms_service.png)
+
 3.1. Navigate to the AWS Database Migration Service dashboard in the AWS Management Console.
 
 3.2. Click the "Create task" button.
