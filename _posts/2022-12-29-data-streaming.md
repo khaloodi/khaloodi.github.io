@@ -4,7 +4,9 @@ title: Kinesis Data Streams
 subtitle: "Drinking from the firehose..."
 ---
 
-Video coming...
+<!-- ![](https://youtu.be/_Ayv8p6nyKo) -->
+[![IMAGE_ALT](/img/data_streaming/cover_photo.png)](https://youtu.be/_Ayv8p6nyKo)
+
 
 ### Ingest Data from an RDS Instance into S3
 
