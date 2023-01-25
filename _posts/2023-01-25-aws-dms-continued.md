@@ -8,7 +8,7 @@ In the associated lab we will step through another example of how to work with A
 
 ### Video Explanation:
 
-[![IMAGE_ALT](/img/what_is_aws_dms.png)](https://youtu.be/_Ayv8p6nyKo)
+[![IMAGE_ALT](/img/what_is_aws_dms.png)](https://www.youtube.com/watch?v=_sNjCvfjMOY)
 
 Migrating a database from one system to another can be a daunting task, but with the AWS Database Migration Service (DMS), the process can be made much simpler. In this article, we will discuss the steps involved in migrating a MySQL database to PostgreSQL using DMS.
 
