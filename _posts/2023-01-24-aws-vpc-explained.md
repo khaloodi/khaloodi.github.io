@@ -8,7 +8,7 @@ In the associated lab we will step through an example of how to set up a VPC in 
 
 ### Video Walkthrough:
 
-Coming...
+[![IMAGE_ALT](/img/aws_vpc_explained/what_is_vpc.png)](https://youtu.be/9l1ADpyy-wk)
 <!-- ![](https://youtu.be/_Ayv8p6nyKo) -->
 <!-- [![IMAGE_ALT](/img/data_streaming/cover_photo.png)](https://youtu.be/_Ayv8p6nyKo) -->
 
