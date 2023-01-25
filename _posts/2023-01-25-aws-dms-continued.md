@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrating MySQL to PostgreSQL With the AWS Database Migration Service
-subtitle: "AWS DMS continued..."
+subtitle: "AWS DMS continued"
 ---
 
 In the associated lab we will step through another example of how to work with AWS database migration services. The goal of this lab is to become more familiar with DMS and general database concepts in AWS.

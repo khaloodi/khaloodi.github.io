@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kinesis Data Streams
-subtitle: "Drinking from the firehose..."
+subtitle: "Drinking from the firehose"
 ---
 
 Here's a great first article and example of how to create a useful guide to become more familiar with AWS's Database migration services.
