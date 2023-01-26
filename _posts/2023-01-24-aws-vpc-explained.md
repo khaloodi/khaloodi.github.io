@@ -28,7 +28,7 @@ In conclusion, AWS VPC is a powerful and flexible network solution that provides
 
 ### References:
 
-- [What is Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- [What is Amazon DMS](https://aws.amazon.com/dms/)
 - [What is VPC Peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 - [Amazon VPC - VPC Peering](https://docs.aws.amazon.com/pdfs/vpc/latest/peering/vpc-pg.pdf#what-is-vpc-peering)
 
