@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Securing your VPC using Public and Private Subnets
-subtitle: "Part 1"
+subtitle: "VPC with public and private subnets"
 ---
 
 In the associated lab we will step through par one of how to secure your VPC using public and private subnets. The goal of this lab is to become more familiar with VPC and general networking concepts in AWS.
