@@ -8,7 +8,7 @@ In the associated lab we will step through par one of how to secure your VPC usi
 
 ### Video Explanation:
 
-[![IMAGE_ALT](/img/what_is_aws_dms.png)](https://www.youtube.com/watch?v=_sNjCvfjMOY)
+[![IMAGE_ALT](/img/vpc_with_pub_priv_subnets.png)](https://www.youtube.com/watch?v=_sNjCvfjMOY)
 
 A Virtual Private Cloud (VPC) in Amazon Web Services (AWS) allows users to create a virtual network in the cloud, isolated from the rest of the internet. One way to increase the security of a VPC is by using both public and private subnets.
 
@@ -25,3 +25,5 @@ In summary, using both public and private subnets in a VPC can greatly increase 
 ### References:
 
 - [What is Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- [Security Best Practices for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-best-practices.html)
+- [Security in AWS Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/security.html)
