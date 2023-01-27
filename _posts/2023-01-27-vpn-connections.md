@@ -10,6 +10,9 @@ In the associated lab we will step through how to set up VPN connections with an
 
 [![IMAGE_ALT](/img/amzn_vpn.png)](https://www.youtube.com/watch?v=ODg9o7B_TFw&t=3s)
 
+![](/img/aws_cidr.png)
+![](/img/aws_cidr2.png)
+
 A Virtual Private Network (VPN) connection allows you to connect your on-premises infrastructure to an Amazon Virtual Private Cloud (VPC) using a secure, encrypted tunnel. One way to set up a VPN connection with an Amazon VPC is by using dynamic routing.
 
 Dynamic routing allows for the automatic exchange of routing information between your on-premises network and your Amazon VPC. This means that any changes to your network topology, such as adding or removing a subnet, will be automatically reflected in the routing table of both your on-premises network and your Amazon VPC.
