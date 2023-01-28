@@ -8,7 +8,7 @@ In the associated lab we will step through how to set up VPN connections with an
 
 ### Video Explanation:
 
-[![IMAGE_ALT](/img/amzn_vpn.png)](https://www.youtube.com/watch?v=ODg9o7B_TFw&t=3s)
+[![IMAGE_ALT](/img/amzn_vpn.png)](https://youtu.be/x7CjpC4Nhxg)
 
 ![](/img/aws_cidr.png)
 ![](/img/aws_cidr2.png)
