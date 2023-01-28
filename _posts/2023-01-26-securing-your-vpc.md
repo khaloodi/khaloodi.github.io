@@ -27,3 +27,5 @@ In summary, using both public and private subnets in a VPC can greatly increase 
 - [What is Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 - [Security Best Practices for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-best-practices.html)
 - [Security in AWS Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/security.html)
+
+<br>

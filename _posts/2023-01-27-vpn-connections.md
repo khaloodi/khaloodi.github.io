@@ -32,3 +32,5 @@ It's worth noting that this is just one way to set up a VPN connection with an A
 - [AWS Managed VPN](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-managed-vpn.html)
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 - [Your Customer Gateway Device](https://docs.aws.amazon.com/vpn/latest/s2svpn/your-cgw.html#CGRequirements)
+
+<br>
