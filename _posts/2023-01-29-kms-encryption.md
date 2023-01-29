@@ -17,6 +17,8 @@ S3 is Amazon's Simple Storage Service, which is an object storage service that o
 
 When you use KMS to encrypt your S3 and EBS data, you can be sure that your data is secure both at rest and in transit. KMS uses Advanced Encryption Standard (AES) with a 256-bit key to encrypt your data, which is a widely accepted and secure encryption standard.
 
+![](../img/cmk_notes.png)
+
 To use KMS to encrypt your S3 and EBS data, you first need to create a key in KMS. Once you have created a key, you can use it to encrypt your S3 and EBS data by specifying the key when you create a new S3 bucket or EBS volume.
 
 When you upload data to S3, you can specify that the data should be encrypted with the KMS key you created. When you create a new EBS volume, you can specify that the volume should be encrypted with the KMS key you created.
