@@ -9,7 +9,7 @@ In the associated lab we will step through using AWS KMS to encrypt S3 and EBS d
 
 ### Video Explanation:
 
-[![IMAGE_ALT](/img/kms.png)](https://youtu.be/cRvxhdcis-w)
+[![IMAGE_ALT](/img/kms.png)](https://youtu.be/XaUKUfn_lYA)
 
 Amazon Key Management Service (KMS) is a fully managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and use those keys to encrypt data in S3 and EBS.
 
