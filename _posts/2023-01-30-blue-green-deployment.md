@@ -8,7 +8,7 @@ In the associated lab we will step through building Docker images and deploying 
 
 ### Video Explanation:
 
-[![IMAGE_ALT](/img/blue_green_video_cover.png)](https://youtu.be/XaUKUfn_lYA)
+[![IMAGE_ALT](/img/blue_green_video_cover.png)](https://youtu.be/MmqtvwbQbks)
 
 ![](../img/blue_green_deployments.gif)
 
