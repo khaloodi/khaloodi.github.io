@@ -8,7 +8,7 @@ Space travel and the establishment of a multi-planetary society are crucial for 
 
 ### Video Explanation:
 
-[![IMAGE_ALT](../img/secret_key.png)](https://youtu.be/n2l8f7bR1k4)
+[![IMAGE_ALT](../img/send_me.png)](https://youtu.be/n2l8f7bR1k4)
 
 Space travel has been a topic of interest for humans for decades and has been seen as a means of not just exploring the unknown but also advancing as a species. In recent years, the concept of fostering a multi-planetary society has gained traction, and it's important to understand why it is pivotal and not up for debate.
 
