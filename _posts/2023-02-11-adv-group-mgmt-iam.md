@@ -9,7 +9,7 @@ AWS Identity and Access Management (IAM) is a web service that helps you securel
 
 ### Video Explanation:
 
-[![IMAGE_ALT](../img/secret_key.png)](https://youtu.be/--OMestCe_E)
+[![IMAGE_ALT](../img/secret_key.png)](https://youtu.be/n2l8f7bR1k4)
 
 IAM (Identity and Access Management) policies are a crucial aspect of security in AWS. IAM policies define who can access what resources within an AWS account, and what actions they can perform. In this article, we'll dive into the basics of IAM policies and how to create and manage them in AWS.
 
