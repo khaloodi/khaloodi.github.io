@@ -27,6 +27,16 @@ In addition to encryption, KMS also provides you with fine-grained access contro
 
 In summary, using Amazon KMS for encrypting S3 and EBS data is a simple, secure and cost-effective way to protect your data at rest and in transit. It gives you the control to manage your encryption keys, and the flexibility to encrypt data in S3 and EBS in a way that suits your use case.
 
+### Make 💰 By Learning Programming:
+
+- [Impractical Python Projects](https://amzn.to/3JpCpWH)
+- [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
+- [Python for Data Analysis](https://amzn.to/3D0C8pl)
+- [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
+- [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
+
+<br>
+
 ### References:
 
 - [AWS KMS Service](https://aws.amazon.com/kms/)

@@ -36,3 +36,13 @@ The [React documentation](https://reactjs.org/docs/react-component.html#shouldco
 - Do not rely on it to “prevent” a rendering, as this can lead to bugs.
 - Consider using the built-in `PureComponent` instead of writing `shouldComponentUpdate()` by hand.
 - We do not recommend doing deep equality checks or using `JSON.stringify()` in `shouldComponentUpdate()`. It is very inefficient and will harm performance.
+
+### Make 💰 By Learning Programming:
+
+- [Impractical Python Projects](https://amzn.to/3JpCpWH)
+- [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
+- [Python for Data Analysis](https://amzn.to/3D0C8pl)
+- [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
+- [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
+
+<br>

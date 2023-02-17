@@ -60,3 +60,13 @@ Controlled components refer to components that render a form, but the "source of
 - conditionally disable/enable buttons
 - enforce input formats
 In ListContacts component (reactnd-contacts-app), not only does the component render a form, but it also controls what happens in that form based on user input. In this case, event handlers update the component's state with the user's search query. And as we've learned: any changes to React state will cause a re-render on the page, effectively displaying our live search results.
+
+### Make 💰 By Learning Programming:
+
+- [Impractical Python Projects](https://amzn.to/3JpCpWH)
+- [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
+- [Python for Data Analysis](https://amzn.to/3D0C8pl)
+- [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
+- [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
+
+<br>

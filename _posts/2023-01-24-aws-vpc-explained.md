@@ -26,6 +26,16 @@ In addition to providing security and scalability, VPC also allows you to custom
 
 In conclusion, AWS VPC is a powerful and flexible network solution that provides a high degree of control and security over your resources. It enables you to create isolated environments for your applications, control access to your resources, leverage the scalability and availability of the AWS infrastructure, and customize your network settings. With VPC, you can easily create and manage virtual networks that meet the specific requirements of your applications, and help ensure the reliability and security of your resources.
 
+### Make 💰 By Learning Programming:
+
+- [Impractical Python Projects](https://amzn.to/3JpCpWH)
+- [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
+- [Python for Data Analysis](https://amzn.to/3D0C8pl)
+- [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
+- [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
+
+<br>
+
 ### References:
 
 - [What is Amazon DMS](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)

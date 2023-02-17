@@ -27,6 +27,16 @@ With dynamic routing set up, any changes to your network topology will be automa
 
 It's worth noting that this is just one way to set up a VPN connection with an Amazon VPC and there are other ways to set up a VPN connection like using static routing or using a hardware VPN device. However, dynamic routing is a popular choice due to its flexibility and ease of use.
 
+### Make 💰 By Learning Programming:
+
+- [Impractical Python Projects](https://amzn.to/3JpCpWH)
+- [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
+- [Python for Data Analysis](https://amzn.to/3D0C8pl)
+- [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
+- [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
+
+<br>
+
 ### References:
 
 - [AWS Managed VPN](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-managed-vpn.html)

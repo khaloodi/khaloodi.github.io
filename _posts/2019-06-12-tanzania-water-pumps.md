@@ -39,3 +39,12 @@ Taking a look at the model's sorted feature importances provides deeper understa
 
 Using ordinal-encoding (as opposed to one-hot) coupled with the power of random forests yields a final overall validation accuracy score of 81%.
 
+### Make 💰 By Learning Programming:
+
+- [Impractical Python Projects](https://amzn.to/3JpCpWH)
+- [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
+- [Python for Data Analysis](https://amzn.to/3D0C8pl)
+- [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
+- [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
+
+<br>
