@@ -20,6 +20,18 @@ Thirdly, space travel and the establishment of a multi-planetary society will pr
 
 In conclusion, fostering a multi-planetary society is pivotal and not up for debate as it is necessary for the survival of our species, will drive technological advancements, and provide new opportunities for scientific discovery. By investing in space travel and the establishment of a multi-planetary society, we can ensure that humanity will continue to thrive and progress for generations to come.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)

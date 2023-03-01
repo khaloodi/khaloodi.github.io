@@ -31,6 +31,18 @@ Here is an example of how to use Amazon ECS for Blue-Green Deployments:
 
 By using Amazon ECS for Blue-Green Deployments, you can minimize downtime during software deployments and ensure that your application is always available to your customers. ECS allows you to run multiple versions of your application at the same time and switch between them easily, making it a great option for implementing Blue-Green Deployments.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
@@ -38,13 +50,5 @@ By using Amazon ECS for Blue-Green Deployments, you can minimize downtime during
 - [Python for Data Analysis](https://amzn.to/3D0C8pl)
 - [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
 - [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
-
-<br>
-
-### References:
-
-- [Blue/Green Deployments](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html)
-- [Blue/Green Deployment on AWS Documentation](https://aws.amazon.com/quickstart/architecture/blue-green-deployment/)
-- [Digital Varys](https://digitalvarys.com/what-is-blue-green-deployment/)
 
 <br>

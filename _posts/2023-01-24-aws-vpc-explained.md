@@ -26,6 +26,18 @@ In addition to providing security and scalability, VPC also allows you to custom
 
 In conclusion, AWS VPC is a powerful and flexible network solution that provides a high degree of control and security over your resources. It enables you to create isolated environments for your applications, control access to your resources, leverage the scalability and availability of the AWS infrastructure, and customize your network settings. With VPC, you can easily create and manage virtual networks that meet the specific requirements of your applications, and help ensure the reliability and security of your resources.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
@@ -33,13 +45,5 @@ In conclusion, AWS VPC is a powerful and flexible network solution that provides
 - [Python for Data Analysis](https://amzn.to/3D0C8pl)
 - [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
 - [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
-
-<br>
-
-### References:
-
-- [What is Amazon DMS](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-- [What is VPC Peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
-- [Amazon VPC - VPC Peering](https://docs.aws.amazon.com/pdfs/vpc/latest/peering/vpc-pg.pdf#what-is-vpc-peering)
 
 <br>

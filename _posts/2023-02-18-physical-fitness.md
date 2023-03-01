@@ -24,6 +24,18 @@ Better sleep: Boxing training can also help improve the quality of your sleep. T
 
 Overall, the benefits of boxing training for mental health are numerous. Whether you're looking to relieve stress, boost your mood, or improve your focus, incorporating boxing into your workout routine may be a great way to achieve your goals. As with any exercise program, it's important to speak with your doctor before starting to ensure that it's safe for you.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)

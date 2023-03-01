@@ -25,6 +25,18 @@ It's important to keep in mind that IAM policies are a critical component of AWS
 
 In conclusion, IAM policies in AWS allow you to control access to resources within your AWS account and secure your data. With the ability to create custom policies or attach managed policies, you can easily manage the permissions of your users. Ensure to keep your policies up-to-date and take advantage of the security features provided by AWS.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)

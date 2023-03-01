@@ -36,6 +36,18 @@ Monitoring: API Gateway provides real-time monitoring and logging of your API, s
 
 Cost-effective: API Gateway is a pay-as-you-go service, which means you only pay for the resources you use. This makes it a cost-effective option for building and running APIs.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)

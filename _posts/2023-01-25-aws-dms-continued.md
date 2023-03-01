@@ -26,6 +26,18 @@ It's worth noting that DMS supports homogeneous migrations (e.g., MySQL to MySQL
 
 In conclusion, migrating a MySQL database to PostgreSQL with AWS DMS is a straightforward process that can save you a lot of time and effort. With its intuitive interface and powerful features, DMS makes it easy to migrate your data to the cloud and take advantage of the many benefits that come with it.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
@@ -33,14 +45,5 @@ In conclusion, migrating a MySQL database to PostgreSQL with AWS DMS is a straig
 - [Python for Data Analysis](https://amzn.to/3D0C8pl)
 - [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
 - [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
-
-<br>
-
-### References:
-
-- [Previous article](https://www.khaledadad.com/2022-12-29-data-streaming/)
-- [Creating a DMS Task](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html)
-- [AWS DMS Part 1](https://billthevestguy.com/2022/08/08/aws-database-migration-service-part-1-of-2/) 
-- [AWS DMS Part 2](https://billthevestguy.com/2022/08/09/aws-database-migration-service-part-2-of-2/)
 
 <br>

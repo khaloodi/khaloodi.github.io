@@ -26,6 +26,18 @@ It is also important to break down the stigma surrounding mental health challeng
 
 In conclusion, mental health is an essential component of overall well-being. Practicing self-care, seeking support, managing stress, and maintaining a healthy lifestyle can all have positive impacts on mental health. It is also important to work towards breaking down the stigma surrounding mental health and promoting understanding and acceptance. Remember, it is never too late to seek help and prioritize your mental health.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)

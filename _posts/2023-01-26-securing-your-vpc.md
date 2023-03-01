@@ -22,6 +22,18 @@ Additionally, it is a best practice to use a Network Address Translation (NAT) g
 
 In summary, using both public and private subnets in a VPC can greatly increase the security of your resources in AWS. By isolating internet-facing resources from those that do not need to be publicly accessible, and by using a NAT gateway or NAT instance, the risk of a security breach is greatly reduced.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
@@ -29,13 +41,5 @@ In summary, using both public and private subnets in a VPC can greatly increase 
 - [Python for Data Analysis](https://amzn.to/3D0C8pl)
 - [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
 - [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
-
-<br>
-
-### References:
-
-- [What is Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-- [Security Best Practices for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-best-practices.html)
-- [Security in AWS Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/security.html)
 
 <br>

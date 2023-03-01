@@ -81,6 +81,18 @@ Finally, you'll need to set up an Amazon Kinesis Data Firehose delivery stream t
 
 5.5. Choose "Amazon S3" as the destination, and select the S3 bucket you created earlier as the destination bucket.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
@@ -88,16 +100,5 @@ Finally, you'll need to set up an Amazon Kinesis Data Firehose delivery stream t
 - [Python for Data Analysis](https://amzn.to/3D0C8pl)
 - [Python for Data Science Handbook](https://amzn.to/3XnZ1ez)
 - [Hands-On Machine Learning w/Scikit-Learn & Tensorflow](https://amzn.to/3QTWoyt)
-
-<br>
-
-### References:
-
-- [Using Amazon Kinesis Data Streams as a target for AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Kinesis.html)
-- [Using Amazon Kinesis Data Streams as a target for AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Kinesis.html)
-- [Amazon Kinesis Data Streams Terminology and Concepts](https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html#shard)
-- [Creating a DMS Task](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.Creating.html)
-- [AWS DMS Part 1](https://billthevestguy.com/2022/08/08/aws-database-migration-service-part-1-of-2/) 
-- [AWS DMS Part 2](https://billthevestguy.com/2022/08/09/aws-database-migration-service-part-2-of-2/)
 
 <br>

@@ -24,6 +24,18 @@ Developing self-confidence is an ongoing process that involves several factors, 
 
 There are many strategies that can help to build self-confidence, including setting achievable goals, practicing self-care, and seeking out supportive relationships. It is important to remember that self-confidence is not an all-or-nothing proposition, and that everyone has strengths and weaknesses. By focusing on personal growth and development, individuals can gradually build their self-confidence and achieve greater success and happiness in all areas of life.
 
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
+### My Favorite Windows Computer
+
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
+
+- [Sour Strips](https://amzn.to/3EDWUM7)
+
 ### Make 💰 By Learning Programming:
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
