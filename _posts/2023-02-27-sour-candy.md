@@ -24,7 +24,11 @@ Interestingly, sour flavors can also help enhance the taste of other flavors. Th
 
 Overall, controlling your simple sugar intake can have numerous health benefits, and sour candy can be a delicious treat in moderation. By being mindful of your sugar intake and making smart food choices, you can enjoy a healthy and satisfying diet.
 
-### Buy Sour Strips Now! ###
+### My Favorite Windows Computer
+
+-[Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+
+### Buy Sour Strips Now!
 
 - [Sour Strips](https://amzn.to/3EDWUM7)
 
