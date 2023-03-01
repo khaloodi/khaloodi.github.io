@@ -22,6 +22,11 @@ In terms of connectivity, the Lenovo Yoga 7i comes with a wide range of ports, i
 
 Overall, the Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1 Convertible Laptop is a great option for anyone looking for a powerful and versatile laptop that can be used in a variety of different ways. With its stunning display, powerful performance, and wide range of features, it's sure to meet the needs of even the most demanding users.
 
+
+### Support Me If Ya Want... I'm Doin This Anyways
+
+- [💯 MPEG4](https://www.buymeacoffee.com/kadad1312d)
+
 ### My Favorite Windows Computer
 
 - [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
