@@ -26,7 +26,7 @@ Overall, controlling your simple sugar intake can have numerous health benefits,
 
 ### My Favorite Windows Computer
 
--[Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
+- [Lenovo Yoga 7i 16 inch 2.5K Touchscreen 2-in-1](https://amzn.to/41CfSfY)
 
 ### Buy Sour Strips Now!
 
