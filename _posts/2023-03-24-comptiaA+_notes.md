@@ -5,8 +5,6 @@ subtitle: "Quick Review"
 
 ---
 
-## Notes
-
 ### The CompTIA Troubleshooting theory:
 - Step 1: Identify the problem
 - Step 2: Establish a theory of probable cause
