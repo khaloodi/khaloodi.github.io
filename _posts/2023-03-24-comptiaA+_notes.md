@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "ComptiaA+ Exam notes"
+title: "ComptTIA_A+ Exam notes"
 subtitle: "Quick Review"
 
 ---
 
 ## Notes
 
-
+### The CompTIA Troubleshooting theory:
+- Step 1: Identify the problem
+- Step 2: Establish a theory of probable cause
+- Step 3: Test The theory to determine cause
+- Step 4: Establish a plan of action to resolve the problem and implement the solution
+- Step 5: Verify full system functionality and, if applicable, implement preventative measures
+- Step 6: Document findings, actions, and outcome
 
 ### Video Explanation:
 
