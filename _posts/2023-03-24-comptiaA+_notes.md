@@ -13,9 +13,6 @@ subtitle: "Quick Review"
 - Step 5: Verify full system functionality and, if applicable, implement preventative measures
 - Step 6: Document findings, actions, and outcome
 
-### Video Explanation:
-
-[![IMAGE_ALT](../img/red_hat_coffee.png)](https://www.youtube.com/watch?v=BZfB8Ny2Tkw)
 
 ### Like to go fast?
 
