@@ -4,12 +4,15 @@ title: Kinesis Data Streams
 subtitle: "Drinking from the firehose"
 ---
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+  
 Here's a great first article and example of how to create a useful guide to become more familiar with AWS's Database migration services.
 
 ### Video Walkthrough:
 <!-- ![](https://youtu.be/_Ayv8p6nyKo) -->
 [![IMAGE_ALT](/img/data_streaming/cover_photo.png)](https://youtu.be/_Ayv8p6nyKo)
-
 
 ### Ingest Data from an RDS Instance into S3
 
