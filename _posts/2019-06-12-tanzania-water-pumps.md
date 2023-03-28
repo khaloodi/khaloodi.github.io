@@ -7,6 +7,10 @@ image: /img/tanzania_water_pump.jpeg
 
 Increasing population growth and urbanization pose serious pressure on the quantity and quality of available water. The sustainability of the present and future human life and environment depends mainly on proper water resources management.
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ![](/img/tanzania_water_pump.jpeg)
 
 To do this we can analyze the functional status of the available water points in Tanzania (in our case). Specifically I looked  into the dataset of water pumps in Tanzania to predict the operating condition of a water point. There are three categories that classify the functional status of water pumps: functional, non functional, and non functional needs repair.

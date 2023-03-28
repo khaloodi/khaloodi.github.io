@@ -6,6 +6,10 @@ subtitle: "Amazon ECS is a performant and scalable container management and orch
 
 In the associated lab we will step through building Docker images and deploying them using Amazon Elastic Container Service (ECS). Our objective is to become more familiar with Amazon's Elastic Container Service and how it can be used to perform gated deployments with no downtime.
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ### Video Explanation:
 
 [![IMAGE_ALT](/img/blue_green_video_cover.png)](https://youtu.be/MmqtvwbQbks)

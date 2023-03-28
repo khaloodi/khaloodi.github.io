@@ -6,6 +6,10 @@ subtitle: "Maximizing Performance and Reducing Injury Risk Through Breath Contro
 
 The mind to muscle connection is a crucial factor in effective exercise. By focusing on a particular muscle group during an exercise, you can improve the quality and effectiveness of your workout. The connection between the mind and muscles can be strengthened by concentrating on your breath while exercising. Taking deep, controlled breaths and using breathing exercises can increase the amount of oxygen that reaches your muscles, which can improve your workout. Additionally, focusing on proper form during an exercise can help engage the right muscles and prevent injury. In this article, we will discuss the importance of the mind to muscle connection and the role of breathing in improving this connection during exercise.
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ### Video Explanation:
 
 [![IMAGE_ALT](../img/mind_to_muscle.png)](https://youtube.com/shorts/hjWIRg83lnw?feature=share)

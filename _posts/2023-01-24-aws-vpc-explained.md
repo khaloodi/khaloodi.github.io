@@ -6,6 +6,10 @@ subtitle: "Networking basics"
 
 In the associated lab we will step through an example of how to set up a VPC in AWS and what that means. The goal of this lab is to become more familiar with VPC and general networking concepts in AWS.
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ### Video Walkthrough:
 
 [![IMAGE_ALT](/img/aws_vpc_explained/what_is_vpc.png)](https://youtu.be/9l1ADpyy-wk)

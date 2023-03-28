@@ -3,6 +3,10 @@ layout: post
 title: React Notes
 ---
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ## Handling Form Input React (steps)
 
 - initialize state for the value of the input

@@ -7,6 +7,10 @@ subtitle: "Getting familiar with AWS KMS and encryption"
 
 In the associated lab we will step through using AWS KMS to encrypt S3 and EBS data. Our objective is to become more familiar with Amazon's Key Management Service and how it can be used to generate encryption keys used to encrypt/decrypt your data.
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ### Video Explanation:
 
 [![IMAGE_ALT](/img/kms.png)](https://youtu.be/XaUKUfn_lYA)

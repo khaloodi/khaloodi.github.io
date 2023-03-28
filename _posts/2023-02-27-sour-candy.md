@@ -6,6 +6,10 @@ subtitle: "From Sweet to Sour: The Benefits of Controlling Sugar Intake and the 
 
 Sugar is a staple ingredient in many of our favorite foods, from desserts to beverages. However, the excessive consumption of simple sugars can lead to a variety of health problems, including obesity, type 2 diabetes, and tooth decay. It's no surprise then that more and more people are looking for ways to reduce their sugar intake. But with so many sweet and delicious treats out there, it can be difficult to resist the temptation. One type of candy that has captured the hearts and taste buds of many is sour candy. Despite its tart flavor, sour candy continues to be a popular choice among candy lovers worldwide. In this article, we'll explore the benefits of controlling simple sugar intake and delve deeper into the science behind why sour candy is so delicious.
 
+- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
+- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
+- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
+
 ### Video Explanation:
 
 [![IMAGE_ALT](../img/sour_strips.png)](https://www.youtube.com/watch?v=LvDYgSWT8F0)
