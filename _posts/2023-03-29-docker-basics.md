@@ -7,6 +7,7 @@ image: /img/docker_cover.jpg
 
 Docker is a popular platform that simplifies the deployment and management of applications. It allows developers to package their applications into containers, which can be easily distributed and run on any platform. In this article, we'll discuss why Docker is important and how it can benefit developers, IT operations, and businesses.
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

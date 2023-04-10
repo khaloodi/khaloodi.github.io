@@ -8,7 +8,7 @@ Introducing the DevOps Dynamo Hat - A Perfect Blend of Style, Comfort, and Tech-
 
 Looking for a hat that truly represents your passion for DevOps while keeping you stylish and comfortable? Our DevOps Dynamo Hat is the ultimate accessory that speaks volumes about your commitment to innovation and efficiency!
 
-- 🔗 | [Holiday Inn Club](https://holidayinnclub.com/)
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

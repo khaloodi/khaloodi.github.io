@@ -4,6 +4,7 @@ title: Linux Notes
 subtitle: Some useful notes on linux shell and scripting
 ---
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

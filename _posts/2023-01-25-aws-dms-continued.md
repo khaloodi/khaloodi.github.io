@@ -6,6 +6,7 @@ subtitle: "AWS DMS continued"
 
 In the associated lab we will step through another example of how to work with AWS database migration services. The goal of this lab is to become more familiar with DMS and general database concepts in AWS.
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

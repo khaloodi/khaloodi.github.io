@@ -6,6 +6,7 @@ subtitle: "Why? ..."
 
 Mental health is a crucial aspect of overall well-being, yet it is often overlooked and stigmatized in our society. Mental health refers to the state of one's emotional, psychological, and social well-being, and it is just as important as physical health.
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

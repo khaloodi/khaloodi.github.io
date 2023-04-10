@@ -7,6 +7,7 @@ image: /img/secret_key_cover.png
 
 AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources for your users. You can specify permissions to a single user or you can use groups to specify permissions for a collection of users, which can make those permissions easier to manage for those users. Furthermore, you can use a Role to grant authorization to AWS resources without any credentials (password or access keys) directly associated with it. In this lab, you will learn the recommended AWS security best practices.
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

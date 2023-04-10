@@ -6,6 +6,7 @@ subtitle: "Embracing Vulnerability, Cultivating Resilience: The Journey to Self-
 
 While developing self-confidence is important, it's also important to recognize that everyone experiences moments of doubt and insecurity. It's okay to feel vulnerable and ask for help when needed. Building self-confidence is a gradual process that requires patience, self-reflection, and a willingness to learn and grow. It's important to focus on personal progress rather than comparing oneself to others, as everyone has their own unique strengths and weaknesses. By cultivating a sense of self-awareness and self-acceptance, individuals can develop a strong sense of self-confidence that will help them navigate life's challenges with greater ease and resilience.
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

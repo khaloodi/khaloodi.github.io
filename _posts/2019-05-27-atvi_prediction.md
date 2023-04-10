@@ -6,6 +6,7 @@ subtitle: Additive time series modeling
 
 Financial prices, weather, home energy usage, and even weight are all examples of data that can be collected at regular intervals. 
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)

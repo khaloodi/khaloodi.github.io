@@ -6,6 +6,7 @@ subtitle: "Why? ..."
 
 Space travel and the establishment of a multi-planetary society are crucial for the survival and advancement of humanity. The survival of our species is at stake as the Earth is a fragile planet and natural disasters, climate change, and other threats could potentially lead to extinction. Space travel will drive technological advancements, provide new opportunities for scientific discovery and understanding, and ensure the continuation of life even if conditions on Earth become uninhabitable. Fostering a multi-planetary society is not up for debate and is essential for the progress and well-being of humanity.
 
+- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
 - 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
 - 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
 - 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
