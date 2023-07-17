@@ -7,11 +7,6 @@ image: /img/tanzania_water_pump.jpeg
 
 Increasing population growth and urbanization pose serious pressure on the quantity and quality of available water. The sustainability of the present and future human life and environment depends mainly on proper water resources management.
 
-- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
-- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
-- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
-- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
-
 ![](/img/tanzania_water_pump.jpeg)
 
 To do this we can analyze the functional status of the available water points in Tanzania (in our case). Specifically I looked  into the dataset of water pumps in Tanzania to predict the operating condition of a water point. There are three categories that classify the functional status of water pumps: functional, non functional, and non functional needs repair.
@@ -45,6 +40,10 @@ Taking a look at the model's sorted feature importances provides deeper understa
 Using ordinal-encoding (as opposed to one-hot) coupled with the power of random forests yields a final overall validation accuracy score of 81%.
 
 ### Make 💰 By Learning Programming:
+- [Tesla](https://ts.la/khaled835973)
+- [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
+- [Xeela Pre workout]()
+- [Sour Strips](https://amzn.to/3EDWUM7)
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)

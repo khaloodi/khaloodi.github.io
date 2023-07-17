@@ -4,11 +4,6 @@ title: Linux Notes
 subtitle: Some useful notes on linux shell and scripting
 ---
 
-- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
-- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
-- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
-- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
-
 ### Common Directories
 
 - / - "Root", the top of the file system hierarchy.
@@ -49,6 +44,10 @@ subtitle: Some useful notes on linux shell and scripting
 To be continued folks...
 
 ### Make 💰 By Learning Programming:
+- [Tesla](https://ts.la/khaled835973)
+- [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
+- [Xeela Pre workout]()
+- [Sour Strips](https://amzn.to/3EDWUM7)
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)

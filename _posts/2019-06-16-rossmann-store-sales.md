@@ -7,11 +7,6 @@ subtitle: Yet another Kaggle competition
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. 
 
-- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
-- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
-- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
-- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
-
 Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
 As a preprocessing step, sales (the variable I am trying to predict) is log transformed. This is done in order to make the y-variable's distribution symmetric. 
@@ -38,6 +33,10 @@ Partial Dependence Plots:
 ![](/img/pdp_promo.png)
 
 ### Make 💰 By Learning Programming:
+- [Tesla](https://ts.la/khaled835973)
+- [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
+- [Xeela Pre workout]()
+- [Sour Strips](https://amzn.to/3EDWUM7)
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)

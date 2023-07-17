@@ -3,11 +3,6 @@ layout: post
 title: React Notes
 ---
 
-- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
-- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
-- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
-- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
-
 ## Handling Form Input React (steps)
 
 - initialize state for the value of the input
@@ -67,6 +62,10 @@ Controlled components refer to components that render a form, but the "source of
 In ListContacts component (reactnd-contacts-app), not only does the component render a form, but it also controls what happens in that form based on user input. In this case, event handlers update the component's state with the user's search query. And as we've learned: any changes to React state will cause a re-render on the page, effectively displaying our live search results.
 
 ### Make 💰 By Learning Programming:
+- [Tesla](https://ts.la/khaled835973)
+- [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
+- [Xeela Pre workout]()
+- [Sour Strips](https://amzn.to/3EDWUM7)
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)

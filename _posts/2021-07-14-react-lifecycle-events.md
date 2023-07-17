@@ -7,11 +7,6 @@ subtitle: render() Is For Rendering, Only!
 
 **Data should not be fetched in the render method!** A component's `render()` method should *only* be used to render that component; it should not make any HTTP requests, fetch data that's used to display the content, or alter the DOM. The render() method also shouldn't call any other functions that do any of these things, either.
 
-- 🔗 | [Holiday Inn Club (Use code: OR IB for discount!)](https://holidayinnclub.com/)
-- 🔗 | [Support Software Builds](https://www.buymeacoffee.com/kadad1312d)
-- 🔗 | [Schedule Tutoring With Me](https://www.calendly.com/kadad1312)
-- 🔗 | [YouTube Channel](https://www.youtube.com/@RealKhaledAdad)
-
 So if render() is only used for displaying content, we put the code that should handle things like Ajax requests in what React calls **lifecycle events**.
 
 ## Lifecycle Events
@@ -43,6 +38,10 @@ The [React documentation](https://reactjs.org/docs/react-component.html#shouldco
 - We do not recommend doing deep equality checks or using `JSON.stringify()` in `shouldComponentUpdate()`. It is very inefficient and will harm performance.
 
 ### Make 💰 By Learning Programming:
+- [Tesla](https://ts.la/khaled835973)
+- [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
+- [Xeela Pre workout]()
+- [Sour Strips](https://amzn.to/3EDWUM7)
 
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
