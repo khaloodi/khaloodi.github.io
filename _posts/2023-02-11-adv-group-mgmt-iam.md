@@ -27,9 +27,8 @@ In conclusion, IAM policies in AWS allow you to control access to resources with
 ### Make 💰 By Learning Programming:
 - [Tesla](https://ts.la/khaled835973)
 - [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
-- [Xeela Pre workout]()
+- [Xeela Pre workout](https://amzn.to/3NXWwMD)
 - [Sour Strips](https://amzn.to/3EDWUM7)
-
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
 - [Python for Data Analysis](https://amzn.to/3D0C8pl)
