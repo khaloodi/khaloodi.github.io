@@ -4,6 +4,8 @@ title: Why Docker is the Game-Changer for Streamlining Application Deployment an
 subtitle: "Discover How Docker Saves Time, Money, and Effort While Improving Portability and Simplifying IT Operations"
 image: /img/docker_cover.jpg
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Docker is a popular platform that simplifies the deployment and management of applications. It allows developers to package their applications into containers, which can be easily distributed and run on any platform. In this article, we'll discuss why Docker is important and how it can benefit developers, IT operations, and businesses.
 <br/>

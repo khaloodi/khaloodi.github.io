@@ -2,7 +2,8 @@
 layout: post
 title: React Notes
 ---
-
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 ## Handling Form Input React (steps)
 
 - initialize state for the value of the input

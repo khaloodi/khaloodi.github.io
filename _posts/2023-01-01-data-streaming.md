@@ -3,7 +3,9 @@ layout: post
 title: Kinesis Data Streams
 subtitle: "Drinking from the firehose"
 ---
-  
+  ### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
+
 Here's a great first article and example of how to create a useful guide to become more familiar with AWS's Database migration services.
 <br/>
 <!-- ![](https://youtu.be/_Ayv8p6nyKo) -->

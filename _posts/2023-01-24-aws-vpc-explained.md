@@ -3,6 +3,8 @@ layout: post
 title: AWS VPC Explained
 subtitle: "Networking basics"
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 In the associated lab we will step through an example of how to set up a VPC in AWS and what that means. The goal of this lab is to become more familiar with VPC and general networking concepts in AWS.
 ### Video Walkthrough:

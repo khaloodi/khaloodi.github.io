@@ -3,6 +3,8 @@ layout: post
 title: Linux Notes
 subtitle: Some useful notes on linux shell and scripting
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 ### Common Directories
 

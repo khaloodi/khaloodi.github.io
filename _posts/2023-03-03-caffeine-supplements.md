@@ -4,6 +4,8 @@ title: "Caffeine as a Daily Supplement: The Potential Benefits and Precautions"
 subtitle: "Unlocking the Power of Your Daily Cup of Joe"
 
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Caffeine is one of the most widely consumed stimulants in the world, found in coffee, tea, energy drinks, and even some foods. While most people consume caffeine for its ability to help them stay awake and alert, it also has potential benefits as a daily supplement. From improved cognitive function and physical performance to weight loss and reduced risk of certain diseases, caffeine can provide a range of benefits for those who consume it in moderation. In this article, we'll take a closer look at the potential benefits of using caffeine as a daily supplement, as well as some of the precautions that should be taken when consuming caffeine.
 

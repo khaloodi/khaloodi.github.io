@@ -3,6 +3,8 @@ layout: post
 title: VPN Connections with an Amazon VPC Using Dynamic Routing
 subtitle: "Setting up VPN connections w/Amazon VPC"
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 In the associated lab we will step through how to set up VPN connections with an Amazon Virtual Private Cloud (VPC) using dynamic routing. This is a slightly more advanced lab focusing on networking topics within the AWS space.
 ### Video Explanation:

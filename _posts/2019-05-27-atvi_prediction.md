@@ -3,6 +3,8 @@ layout: post
 title: Time Series Forecasting 
 subtitle: Additive time series modeling
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Financial prices, weather, home energy usage, and even weight are all examples of data that can be collected at regular intervals. 
 

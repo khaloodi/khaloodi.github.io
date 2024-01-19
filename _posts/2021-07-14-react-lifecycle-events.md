@@ -3,7 +3,8 @@ layout: post
 title: React Lifecycle Events
 subtitle: render() Is For Rendering, Only!
 ---
-
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 **Data should not be fetched in the render method!** A component's `render()` method should *only* be used to render that component; it should not make any HTTP requests, fetch data that's used to display the content, or alter the DOM. The render() method also shouldn't call any other functions that do any of these things, either.
 

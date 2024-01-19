@@ -4,6 +4,8 @@ title: Predicting The Functional Status of Pumps in Tanzania
 subtitle: My first Kaggle competition
 image: /img/tanzania_water_pump.jpeg
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Increasing population growth and urbanization pose serious pressure on the quantity and quality of available water. The sustainability of the present and future human life and environment depends mainly on proper water resources management.
 

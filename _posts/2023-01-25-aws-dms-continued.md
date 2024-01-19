@@ -3,6 +3,8 @@ layout: post
 title: Migrating MySQL to PostgreSQL With the AWS Database Migration Service
 subtitle: "AWS DMS continued"
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 In the associated lab we will step through another example of how to work with AWS database migration services. The goal of this lab is to become more familiar with DMS and general database concepts in AWS.
 ### Video Explanation:

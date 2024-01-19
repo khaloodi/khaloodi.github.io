@@ -3,7 +3,8 @@ layout: post
 title: Predicting Rossman Store Sales
 subtitle: Yet another Kaggle competition
 ---
-
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. 
 

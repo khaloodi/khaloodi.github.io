@@ -3,6 +3,8 @@ layout: post
 title: Using Amazon ECS for Blue-Green Deployments
 subtitle: "Amazon ECS is a performant and scalable container management and orchestration service"
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 In the associated lab we will step through building Docker images and deploying them using Amazon Elastic Container Service (ECS). Our objective is to become more familiar with Amazon's Elastic Container Service and how it can be used to perform gated deployments with no downtime.
 ### Video Explanation:

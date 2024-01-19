@@ -3,6 +3,8 @@ layout: post
 title: Who Got To Be Guests On 'The Daily Show'?
 subtitle: I recreated this visualization from FiveThirtyEight
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 As a learning experience, I recreated this data visualization from FiveThirtyEight's article, [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](https://fivethirtyeight.com/features/every-guest-jon-stewart-ever-had-on-the-daily-show/).
 

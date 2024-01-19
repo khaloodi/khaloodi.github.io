@@ -3,6 +3,8 @@ layout: post
 title: Jab Your Way to a Healthier Mind, How Boxing Training Boosts Mental Health
 subtitle: "Punch Out Stress and Anxiety While Building Confidence and Focus with Boxing Workouts"
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Boxing training has several benefits for mental health, including stress relief, increased self-confidence, improved mood, better focus and concentration, and better sleep. The intense focus required during boxing training can help improve concentration and reduce symptoms of depression. Additionally, the physical activity can release endorphins, which are natural feel-good chemicals in the brain, leading to better mood and reduced stress. Incorporating boxing into your workout routine can be a great way to achieve these benefits, but it's important to speak with a doctor before starting any exercise program to ensure it's safe for you.
 

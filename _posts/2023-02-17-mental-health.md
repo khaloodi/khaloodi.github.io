@@ -3,6 +3,8 @@ layout: post
 title: 🧠 health matters! 
 subtitle: "Why? ..."
 ---
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Mental health is a crucial aspect of overall well-being, yet it is often overlooked and stigmatized in our society. Mental health refers to the state of one's emotional, psychological, and social well-being, and it is just as important as physical health.
 ### Video Explanation:
