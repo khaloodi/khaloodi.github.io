@@ -7,7 +7,8 @@ image: /img/air-heads.jpg
 
 XTEND® Original BCAA Powder is a muscle recovery supplement designed to help users optimize their workout results. It contains a powerful blend of 7 grams of BCAAs per serving in the ideal 2:1:1 ratio (L-Leucine, L-Isoleucine, and L-Valine) to support muscle recovery, reduce fatigue, and improve performance. Alongside BCAAs, it includes electrolytes for hydration, citrulline malate to enhance nitric oxide production, and glutamine to further aid recovery.
 
-[![IMAGE_ALT](../img/air-heads.jpg)](https://www.youtube.com/watch?v=LvDYgSWT8F0)
+[![IMAGE_ALT](../img/air-heads.jpg)](https://amzn.to/47ugqrE)
+Try it out: [XTEND Original BCAA Powder Airheads Cherry](https://amzn.to/47ugqrE)
 
 Available in multiple flavors like Watermelon, Blue Raspberry, and Fruit Punch, XTEND® gives you plenty of variety, allowing you to switch things up to avoid taste fatigue. Whether you’re an endurance athlete, bodybuilder, or weekend warrior, XTEND® aims to give you the edge in your workouts.
 
@@ -58,6 +59,8 @@ Whether you’re trying to reduce soreness, stay hydrated, or simply enhance you
 XTEND® Original BCAA Powder has earned its place as a leading supplement for good reason. Its combination of muscle recovery, hydration, and endurance benefits make it a valuable addition to any fitness routine. With its excellent taste, versatility, and proven results, it's definitely worth considering if you're looking to get more out of your workouts.
 
 Have you tried XTEND® Original BCAA Powder? Share your experience in the comments below, and let us know how it worked for you!
+
+Try it out: [XTEND Original BCAA Powder Airheads Cherry](https://amzn.to/47ugqrE)
 
 ### 📅 Schedule A Meeting:
 - [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
