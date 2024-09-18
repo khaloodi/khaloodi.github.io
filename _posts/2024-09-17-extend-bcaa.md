@@ -45,6 +45,8 @@ Even if you're a beginner or someone just starting their fitness journey, XTEND�
 - Some users may find the product slightly expensive compared to other BCAA supplements on the market.
 - Certain flavors may be a bit too sweet for those who prefer a more neutral taste.
 - Results can vary based on individual fitness goals and workout intensity.
+
+
 ### **Pricing & Value for Money**
 XTEND® Original BCAA Powder is priced competitively for a high-quality BCAA supplement. The cost per serving may seem a bit steep compared to lower-end products, but considering the quality ingredients, hydration support, and effectiveness, it offers great value. It’s especially beneficial if you’re looking for a supplement that can replace sugary sports drinks while also supporting muscle recovery.
 
