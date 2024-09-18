@@ -41,6 +41,8 @@ Even if you're a beginner or someone just starting their fitness journey, XTENDÂ
 - Excellent hydration support due to the inclusion of electrolytes.
 - A wide variety of great-tasting flavors.
 - Mixes easily without clumping or residue.
+
+
 #### **Cons:**
 - Some users may find the product slightly expensive compared to other BCAA supplements on the market.
 - Certain flavors may be a bit too sweet for those who prefer a more neutral taste.
