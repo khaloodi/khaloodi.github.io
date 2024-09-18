@@ -3,8 +3,6 @@ layout: post
 title: I Like Sour Strips & So Should You
 subtitle: "From Sweet to Sour: The Benefits of Controlling Sugar Intake and the Science of Sour Candy Delight"
 ---
-### 📅 Schedule A Meeting:
-- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
 
 Sugar is a staple ingredient in many of our favorite foods, from desserts to beverages. However, the excessive consumption of simple sugars can lead to a variety of health problems, including obesity, type 2 diabetes, and tooth decay. It's no surprise then that more and more people are looking for ways to reduce their sugar intake. But with so many sweet and delicious treats out there, it can be difficult to resist the temptation. One type of candy that has captured the hearts and taste buds of many is sour candy. Despite its tart flavor, sour candy continues to be a popular choice among candy lovers worldwide. In this article, we'll explore the benefits of controlling simple sugar intake and delve deeper into the science behind why sour candy is so delicious.
 ### Video Explanation:
@@ -25,10 +23,11 @@ Interestingly, sour flavors can also help enhance the taste of other flavors. Th
 
 Overall, controlling your simple sugar intake can have numerous health benefits, and sour candy can be a delicious treat in moderation. By being mindful of your sugar intake and making smart food choices, you can enjoy a healthy and satisfying diet.
 
+### 📅 Schedule A Meeting:
+- [Consultation & Project Scoping](https://calendly.com/kadad1312/1-on-1?back=1&month=2024-01)
+
 ### Make 💰 By Learning Programming:
-- [Tesla](https://ts.la/khaled835973)
-- [Liquid I.V. Hydration Multiplier 30 Stick, 16.93 Ounce](https://amzn.to/3ZFDjDq)
-- [Xeela Pre workout](https://amzn.to/3NXWwMD)
+- [Tesla Discount](https://ts.la/khaled835973)
 - [Sour Strips](https://amzn.to/3EDWUM7)
 - [Impractical Python Projects](https://amzn.to/3JpCpWH)
 - [Designing Data-Intensive Applications](https://amzn.to/3Hgh5Sj)
