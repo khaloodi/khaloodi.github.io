@@ -22,7 +22,7 @@ description: 🗞️ Daily Bugle 🕸️
 
 # List of links in the navigation bar
 navbar-links:
-    MyWork:
+    My Work:
 #     - Drone Flight Simulator: ""
       - Drone Mapping Startup: "https://www.khaledadad.com/drone-inspections-landing/"
       - Stock Portfolio Analysis - MS Business Analytics Capstone: "https://www.khaledadad.com/capstone/"
