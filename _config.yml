@@ -21,7 +21,11 @@ description: 🗞️ Daily Bugle 🕸️
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
+navbar-links:
+    MyWork:
+      - Drone Mapping Startup aka Overwatch: "https://www.khaledadad.com/drone-inspections-landing/"
+      - MS Business Analytics Capstone: "https://www.khaledadad.com/capstone/"
+#     - Drone Flight Simulator: ""
 #   Blog: ""
 #   Corpus: "corpus"
 #   Resources:
