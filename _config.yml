@@ -23,6 +23,7 @@ share-title: Welcome to my blog!
 
 # List of links in the navigation bar
 navbar-links:
+    Overwatch: "https://www.khaledadad.com/drone-inspections-landing/"
     My Work:
 #     - Drone Flight Simulator: ""
       - Overwatch - Drone Mapping Startup: "https://www.khaledadad.com/drone-inspections-landing/"
