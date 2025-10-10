@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: "From Data Science to the Skies: Building Projects that Matter"
+subtitle: Data. Drones. Discovery.
 ---
 
 <!-- ## About Me -->
