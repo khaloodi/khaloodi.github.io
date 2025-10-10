@@ -1,3 +1,64 @@
+/* @media only screen and (max-width: 365px) {
+  .header-section.has-img .big-img {
+    margin-bottom: 0;
+  }
+}
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
+.list-filters {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.list-filters .list-filter  {
+  text-decoration: none !important;
+  margin-right: 15px;
+  border: 1px solid #777;
+  padding: 5px 10px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.list-filters .list-filter.filter-selected,
+.list-filters .list-filter:hover {
+  color: #fff;
+  background: #444;
+}
+
+@media only screen and (max-width: 550px) {
+  .list-filters .list-filter {
+    font-size: 16px;
+    margin-right: 0;
+    margin-bottom: -1px;
+    display: block;
+  }
+}
+
+.post-preview {
+  padding: 15px 10px;
+  display: block;
+} */
+
+
 @media only screen and (max-width: 365px) {
   .header-section.has-img .big-img {
     margin-bottom: 0;
@@ -56,4 +117,43 @@ blockquote p::after {
 .post-preview {
   padding: 15px 10px;
   display: block;
+}
+
+/* =============================
+   BIGIMG / HERO IMAGE STYLES
+============================= */
+.bigimg-container {
+  position: relative;
+  width: 100%;
+  max-height: 80vh; /* adjust height as needed */
+  overflow: hidden;
+}
+
+.bigimg-container .bigimg {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.bigimg-container .bigimg-caption {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 768px) {
+  .bigimg-container .bigimg-caption {
+    bottom: 10px;
+    right: 10px;
+    font-size: 0.9rem;
+    padding: 6px 10px;
+  }
 }

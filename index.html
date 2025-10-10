@@ -25,6 +25,19 @@ share-img: https://www.anudit.in/assets/img/av.jpg
 
 <!-- title: Dev Blog -->
 
+<!-- Big Image / Hero Section -->
+{% if page.bigimg %}
+  {% for img in page.bigimg %}
+    <div class="bigimg-container" style="position: relative; text-align: center;">
+      <img src="{{ img.image }}" alt="{{ img.caption }}" class="bigimg">
+      {% if img.caption %}
+        <div class="bigimg-caption">{{ img.caption }}</div>
+      {% endif %}
+    </div>
+  {% endfor %}
+{% endif %}
+
+
 <!-- Typed.js -->
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <div class="mobile-js-hide">
