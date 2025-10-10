@@ -1,8 +1,9 @@
 ---
 layout: page
-subtitle: Data. Drones. Discovery.
+title: Data. Drones. Discovery.
 ---
 <!-- title: About Me -->
+<!-- subtitle: Data. Drones. Discovery. -->
 
 <!-- ## About Me -->
 
