@@ -26,7 +26,7 @@ navbar-links:
     Overwatch: "https://www.khaledadad.com/drone-inspections-landing/"
     My Work:
 #     - Drone Flight Simulator: ""
-      - Chicago Elite Pest Control: "https://www.khaledadad.com/ChicagoElitePestControl/"
+      # - Chicago Elite Pest Control: "https://www.khaledadad.com/ChicagoElitePestControl/"
       - Overwatch - Drone Mapping Startup: "https://www.khaledadad.com/drone-inspections-landing/"
       # - Stock Portfolio Analysis - MS Business Analytics Capstone: "https://www.khaledadad.com/capstone/"
       - Data Science Blog: "https://www.khaledadad.com/"
