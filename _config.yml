@@ -23,13 +23,13 @@ share-title: Welcome to my blog!
 
 # List of links in the navigation bar
 navbar-links:
+    Blog: "https://www.khaledadad.com/"
     Overwatch: "https://www.khaledadad.com/drone-inspections-landing/"
-    My Work:
+    # My Work:
 #     - Drone Flight Simulator: ""
       # - Chicago Elite Pest Control: "https://www.khaledadad.com/ChicagoElitePestControl/"
-      - Overwatch - Drone Mapping Startup: "https://www.khaledadad.com/drone-inspections-landing/"
+      # - Overwatch - Drone Mapping Startup: "https://www.khaledadad.com/drone-inspections-landing/"
       # - Stock Portfolio Analysis - MS Business Analytics Capstone: "https://www.khaledadad.com/capstone/"
-      - Data Science Blog: "https://www.khaledadad.com/"
     About Me: "aboutme"
 #   Blog: ""
 #   Corpus: "corpus"
