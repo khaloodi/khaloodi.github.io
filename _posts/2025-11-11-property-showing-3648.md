@@ -9,7 +9,6 @@ tags:
   - 3D Home Scans
   - CubiCasa
   - Real Estate Marketing
-  - Test
 ---
 
 # Behind the Lens: Capturing a Chicago Family Home Through Drone Footage and 3D Mapping
