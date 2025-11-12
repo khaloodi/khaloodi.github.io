@@ -10,7 +10,6 @@ tags:
   - Real Estate Marketing
 ---
 
-# Behind the Lens: Capturing a Chicago Family Home Through Drone Footage and 3D Mapping
 
 In the ever-evolving world of real estate marketing, visuals have become more than a luxury — they’re an expectation. Today’s homebuyers want to experience a property before they ever set foot inside, and agents are looking for ways to bring listings to life with immersive, data-driven content. A recent real estate showing in **Chicago** highlighted just how far technology has advanced in making that possible.
 
