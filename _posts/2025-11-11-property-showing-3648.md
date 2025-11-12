@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Behind the Lens: Chicago Family Home for Sale"
-date: 3648 W 81st St
 tags: 
   - Real Estate Drone Photography
   - Chicago Real Estate
