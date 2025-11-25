@@ -51,6 +51,8 @@ This Chicago showing demonstrates how **drone videography** and **3D interior mo
 
 As these technologies become more accessible, their integration into local real estate marketing is no longer optional. It’s becoming the new standard. Aerial perspectives reveal context; 3D mapping offers clarity; together, they create trust and transparency in the buying process.
 
+[![](../img/cubicasainterior3d.png)](https://youtu.be/JR6jrN5qm-E)
+
 ---
 
 **Keywords:** Chicago real estate drone photography, Chicago home tours, real estate drone services, 3D property mapping, CubiCasa floor plans, aerial real estate videography, real estate marketing Chicago, drone video for listings.
