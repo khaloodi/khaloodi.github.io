@@ -13,7 +13,7 @@ tags:
 
 In the ever-evolving world of real estate marketing, visuals have become more than a luxury — they’re an expectation. Today’s homebuyers want to experience a property before they ever set foot inside, and agents are looking for ways to bring listings to life with immersive, data-driven content. A recent real estate showing in **Chicago** highlighted just how far technology has advanced in making that possible.
 
-![Drone shot of Chicago family home](/images/chicago-family-home-drone.jpg)
+[![IMAGE_ALT](../img/overwatch_intro_cover.png)](https://www.youtube.com/watch?v=02l5qh1qMqQ)
 
 ## Setting the Scene
 
