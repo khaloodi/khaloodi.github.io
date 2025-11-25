@@ -33,11 +33,11 @@ These kinds of drone perspectives are more than aesthetic flourishes. They help 
 
 Once the exterior was captured, attention shifted indoors. Using **CubiCasa’s 3D scanning tool**, the interior was digitally mapped to produce both a detailed floor plan and an interactive mockup of the home. The scanning process was straightforward and efficient, translating each room’s dimensions and features into an accurate virtual model.
 
-![IMAGE_ALT](../img/ccbroll1.png)
+![IMAGE_ALT](../img/ccbroll2.png)
 
 The resulting 3D rendering allows potential buyers to explore the property remotely, navigate rooms at their own pace, and even visualize how furniture or renovations might fit within the space. This technology bridges the gap between a simple video tour and a fully immersive digital experience — an invaluable tool for modern property marketing.
 
-![IMAGE_ALT](../img/ccbroll2.png)
+![IMAGE_ALT](../img/ccbroll1.png)
 
 ## Overcoming the Challenges
 
