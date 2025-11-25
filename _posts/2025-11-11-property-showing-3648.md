@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Behind the Lens: Chicago Family Home for Sale"
+title: "Behind the Lens"
+subtitle: "Chicago Family Homes for Sale"
+image:  /img/overwatch_intro_cover.png
 tags: 
   - Real Estate Drone Photography
   - Chicago Real Estate
