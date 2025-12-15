@@ -56,6 +56,6 @@ For us at Overwatch, this project represents what we’re working toward long-te
 
 If you’d like a deeper look at how this collaboration came together and what we’re building moving forward, you can watch the full project video here:
 
-[![IMG_ALT](https://i9.ytimg.com/vi/LO6ctZBkZZw/maxresdefault.jpg?v=6938c370&sqp=CPD1-MkG&rs=AOn4CLAirZYjXk6P-eGQ6C5lydyjMaRfmg)](https://www.youtube.com/watch?v=LO6ctZBkZZw)
+[![IMG_ALT](../img/overwatch_wk1.jpg)
 
 More clips, insights, and conversations are coming soon — and we’re just getting started.
