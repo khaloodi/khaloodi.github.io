@@ -122,7 +122,7 @@ Alongside our educational shorts, we continue building Overwatch in public.
 
 This week’s long-form video shows continued FPV simulator practice in **Uncrashed**, documenting flight progression, spatial control, and consistency.  
 
-We’re also streaming live on **Twitch**:
+We’re also streaming live on **Twitch**: https://www.twitch.tv/projectkhaled
 
 **Mondays & Wednesdays — 7 PM CST**
 
