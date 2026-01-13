@@ -149,7 +149,7 @@ We’ve also begun streaming this practice live on **Twitch**:
 The schedule is intentional, but like any real-world operation, it may shift due to seasonal work or technical challenges. Transparency is part of the process.
 
 **Watch the latest vlog here 👇:**
-[![Overwatch FPV vlog](/img/overwatch_week5_cover.jpeg)](https://www.youtube.com/watch?v=8E58tCWmQL4)
+[![Overwatch FPV vlog](/img/overwatch_week5_cover.jpeg)](https://www.youtube.com/watch?v=G0hKTbc8IZg)
 
 ---
 
