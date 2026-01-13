@@ -26,8 +26,6 @@ Drone perspectives make this difference visible.
 ---
 
 ## What Buyers Often Overlook
-![Drone rising gif](/img/drone_rising_gif3.gif)
-
 When touring a home, buyers usually focus on:
 
 - Interior finishes
@@ -46,6 +44,8 @@ This can affect:
 - Overall mood and livability
 
 From the ground, these differences are hard to quantify. From above, they’re immediately clear.
+
+![Sunlight gif](/img/sunlight_gif1.gif)
 
 ---
 
@@ -67,7 +67,7 @@ These factors influence:
 Drone footage allows buyers to **visualize sunlight paths**, not just imagine them.
 
 <!-- GIF: Aerial showing sun angle over rooftops -->
-![Drone rising gif](/img/drone_rising_gif2.gif)
+![Sunlight gif](/img/sunlight_gif2.gif)
 
 ---
 
@@ -120,7 +120,7 @@ From above, it becomes clear why:
 These are livability details that only emerge when you step back — literally.
 
 <!-- GIF: Side-by-side rooftops with shadow contrast -->
-![Drone rising gif](/img/drone_rising_gif1.gif)
+![Sunlight gif](/img/sunlight_gif3.gif)
 
 ---
 
@@ -136,7 +136,7 @@ Drone footage doesn’t replace inspections — it enhances decision-making **be
 
 ---
 
-## Behind the Scenes: Building Overwatch (Week 4)
+## Behind the Scenes: Building Overwatch (Week 5)
 
 Alongside our educational shorts, we’re continuing to build Overwatch in public.
 
@@ -148,7 +148,8 @@ We’ve also begun streaming this practice live on **Twitch**:
 
 The schedule is intentional, but like any real-world operation, it may shift due to seasonal work or technical challenges. Transparency is part of the process.
 
-[![Overwatch FPV vlog](/img/uncrashed_week4_cover.JPEG)](https://www.youtube.com/watch?v=8E58tCWmQL4)
+**Watch the latest vlog here 👇:**
+[![Overwatch FPV vlog](/img/overwatch_week5_cover.jpeg)](https://www.youtube.com/watch?v=8E58tCWmQL4)
 
 ---
 
