@@ -9,6 +9,7 @@ subtitle: Data. Drones. Discovery.
 <!-- ## About Me -->
 
 Hi, I’m **Khaled Adad** — a data scientist, technician, and lifelong learner with a passion for blending technology and real-world problem-solving.  
+
 My background spans data analytics, engineering diagnostics, and software systems — and I’m continuously exploring how emerging technologies can shape the way we build, measure, and interact with the world around us.
 
 ---
