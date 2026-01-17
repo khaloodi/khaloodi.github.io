@@ -23,6 +23,7 @@ share-title: Welcome to my blog!
 
 # List of links in the navigation bar
 navbar-links:
+    Stream: "https://www.twitch.tv/projectkhaled"
     Daily Bugle: "https://www.khaledadad.com/"
     Overwatch: "https://www.khaledadad.com/drone-inspections-landing/"
     # My Work:
