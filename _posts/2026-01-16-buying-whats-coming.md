@@ -2,7 +2,7 @@
 layout: post
 title: "You're Not Just Buying a Home - You're Buying What's Coming"
 subtitle: "How Aerial Context Reveals Neighborhood Growth Before It's Obvious"
-image: /img/short_wk6.png
+image: /img/short_wk6.PNG
 date: 2026-01-16
 tags:
   - Chicago Real Estate
@@ -23,7 +23,7 @@ You’re buying future roads, nearby development, traffic patterns, and commerci
 
 Aerial perspective makes that future visible.
 
-[![▶ Watch the short on YouTube](/img/short_wk6.png)](https://www.youtube.com/shorts/lQKEMIMdqX4)
+[![▶ Watch the short on YouTube](/img/short_wk6.PNG)](https://www.youtube.com/shorts/lQKEMIMdqX4)
 
 ---
 
