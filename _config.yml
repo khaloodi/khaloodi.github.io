@@ -81,22 +81,22 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "kadad1312@gmail.com"
-  github: khaloodi
+  facebook: projectkhaled
+  instagram: projectkhaled
+  youtube: user/projectKhaled
+  twitch: projectKhaled
+  # email: "kadad1312@gmail.com"
+  # github: khaloodi
   # linkedin: khaledadad
   # twitter: AdadKhaled
-#   facebook: pivotpoynt
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: khaled.adad
-#  youtube: user/RealKhaledAdad
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
