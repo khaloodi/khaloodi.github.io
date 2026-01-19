@@ -116,7 +116,7 @@ This project is intentionally experimental.
 The goal isn’t polish — it’s perspective.
 
 **Watch the short film here 👇:**  
-- Coming soon
+[![overwatch_week6_cover.jpeg](/img/overwatch_week6_cover.jpeg)](https://www.youtube.com/watch?v=8nH9jxz_kcI)
 
 ---
 
