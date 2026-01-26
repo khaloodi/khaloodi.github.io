@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Behind the Scenes of a Real Estate Drone Shoot in Chicago"
 subtitle: "How I Plan, Fly, and Deliver Professional Aerial Video for Clients"
@@ -13,7 +12,6 @@ tags:
   - Behind the Scenes
   - Drone Mapping
 permalink: /berwyn-drone-bts/
-
 ---
 [![▶ EMBED VIDEO HERE — Berwyn BTS YouTube Video](/img/berwyn_bts.png)](https://www.youtube.com/watch?v=rAOzPuGWjOI)
 ---
