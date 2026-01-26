@@ -6,14 +6,13 @@ subtitle: "How I Plan, Fly, and Deliver Professional Aerial Video for Clients"
 image: /img/berwyn_bts.png
 date: 2026-01-25
 tags:
-
-* Real Estate Drone
-* Drone Business
-* Aerial Videography
-* Chicago Real Estate
-* Behind the Scenes
-* Drone Mapping
-  permalink: /berwyn-drone-bts/
+  - Real Estate Drone
+  - Drone Business
+  - Aerial Videography
+  - Chicago Real Estate
+  - Behind the Scenes
+  - Drone Mapping
+permalink: /berwyn-drone-bts/
 
 ---
 [![▶ EMBED VIDEO HERE — Berwyn BTS YouTube Video](/img/berwyn_bts.png)](https://www.youtube.com/watch?v=rAOzPuGWjOI)
