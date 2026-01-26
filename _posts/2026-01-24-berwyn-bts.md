@@ -3,7 +3,7 @@ layout: post
 title: "Behind the Scenes of a Real Estate Drone Shoot in Chicago"
 subtitle: "How I Plan, Fly, and Deliver Professional Aerial Video for Clients"
 image: /img/berwyn_bts.png
-date: 2026-01-25
+date: 2026-01-24
 tags:
   - Real Estate Drone
   - Drone Business
@@ -12,8 +12,6 @@ tags:
   - Behind the Scenes
   - Drone Mapping
 permalink: /berwyn-drone-bts/
----
-[![▶ EMBED VIDEO HERE — Berwyn BTS YouTube Video](/img/berwyn_bts.png)](https://www.youtube.com/watch?v=rAOzPuGWjOI)
 ---
 
 ### 🎯 For Real Estate Agents & Developers
@@ -26,6 +24,8 @@ I offer:
 * Aerial photography
 * Drone mapping & site documentation
 * Construction progress flights
+
+[![▶ EMBED VIDEO HERE — Berwyn BTS YouTube Video](/img/berwyn_bts.png)](https://www.youtube.com/watch?v=rAOzPuGWjOI)
 
 📩 **Request pricing or book a project:**
 
