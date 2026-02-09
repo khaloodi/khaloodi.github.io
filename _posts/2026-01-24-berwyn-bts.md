@@ -25,6 +25,7 @@ I offer:
 * Drone mapping & site documentation
 * Construction progress flights
 
+**Watch this week's video 👇:**
 [![▶ EMBED VIDEO HERE — Berwyn BTS YouTube Video](/img/berwyn_bts.png)](https://www.youtube.com/watch?v=rAOzPuGWjOI)
 
 📩 **Request pricing or book a project:**

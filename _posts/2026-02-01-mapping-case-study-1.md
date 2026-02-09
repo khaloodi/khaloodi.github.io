@@ -25,6 +25,7 @@ I currently offer:
 * Construction progress flights
 * Real estate aerial media
 
+**Watch this week's video 👇:**
 [![▶ EMBED VIDEO HERE — Case Study #1 Mapping Video](/img/case-study-1-mapping.png)](https://www.youtube.com/watch?v=a-t-qfkvBxg)
 
 📩 **Request pricing or book a project:**
