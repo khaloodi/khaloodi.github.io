@@ -1,57 +1,161 @@
 ---
 layout: page
 title: About Me
-subtitle: Data. Drones. Discovery.
----
-<!-- title: About Me -->
-<!-- subtitle: Data. Drones. Discovery. -->
-
-<!-- ## About Me -->
-
-Hi, I’m **Khaled Adad** — a data scientist, technician, and lifelong learner with a passion for blending technology and real-world problem-solving.  
-
-My background spans data analytics, engineering diagnostics, and software systems — and I’m continuously exploring how emerging technologies can shape the way we build, measure, and interact with the world around us.
-
+subtitle: Systems. Data. Infrastructure.
 ---
 
-## Current Projects
+# About Me
 
-### 🛰️ Overwatch — Precision-Based Aerial Services
+Hi, I’m **Khaled Adad** — an AEC systems engineer, drone operator, technologist, and builder focused on the intersection of **data, infrastructure, automation, and real-world systems**.
 
-**Overwatch** is my hands-on project at the intersection of **data science**, **drone technology**, and the **Architecture, Engineering, and Construction (AEC)** industry.  
-What started as a curiosity about aerial data capture has evolved into a growing initiative to explore how **unmanned aerial systems (UAS)** can generate actionable insights through imaging, photogrammetry, and 3D modeling.
+My background spans:
+- Fire alarm systems design
+- Data analytics
+- Drone mapping & aerial imaging
+- CAD workflows
+- Technical operations
+- Software and systems thinking
 
-Built under my personal brand and hosted here on **khaledadad.com**, Overwatch serves two purposes:
+I’m driven by a simple philosophy:
 
-1. To learn, document, and experiment with new technologies in aerial data collection and spatial analytics.  
-2. To provide **precision-based aerial services** for residential and commercial clients — supporting inspections, construction planning, and digital documentation.
+> **Learn by building. Improve by measuring. Scale through systems.**
+
+This website serves as both a portfolio and an evolving lab — documenting projects, experiments, workflows, and ideas across engineering, drones, software, and emerging technology.
 
 ---
 
-## Mission
+# Current Work
 
-To bridge the gap between **data and the built environment** by using drones as intelligent data-gathering tools.  
-Overwatch focuses on transforming aerial visuals into measurable, meaningful information that supports decision-making in design, construction, and maintenance.
+## 🏗️ Fire Protection & AEC Systems
 
-**Our mission is to:**
+Professionally, I work in the Architecture, Engineering, and Construction (AEC) industry designing fire alarm systems and supporting construction documentation workflows.
 
-- Develop a modern workflow connecting **drone imagery**, **photogrammetry**, and **data analytics** for the AEC industry.  
-- Deliver **accessible, accurate, and efficient** aerial services for real-world applications.  
-- Continue learning and sharing the intersection of **AI, geospatial data, and drone technology** through open, documented experimentation.
+My day-to-day work includes:
+- Fire alarm layout design
+- Device placement & coordination
+- Voltage drop and battery calculations
+- Construction documentation
+- Code compliance workflows
+- CAD-based systems integration
+
+This work strengthened my interest in how buildings function as interconnected systems — and how data can improve the way we design, monitor, and maintain the built environment.
 
 ---
 
-## Looking Ahead
+# 🛰️ Overwatch Drone Mapping
 
-Overwatch is both a **project and a startup in development** — a long-term effort to merge my technical expertise with the needs of an evolving industry.  
-As capabilities grow, I plan to integrate **3D modeling**, **digital twins**, and **data-driven visualization** into future service offerings.
+## Precision-Based Aerial Services
 
-At its core, Overwatch reflects my broader philosophy:  
-> **To learn by building — and to create tools, systems, and insights that make the physical world more measurable, connected, and intelligent.**
+[Overwatch Drone Mapping](https://www.khaledadad.com/drone-inspections-landing/?utm_source=chatgpt.com) is my drone mapping and aerial data initiative focused on bringing modern spatial technology into real-world applications.
 
-### 🛩️ Book a Drone Demo
+What started as an interest in aerial imaging evolved into a larger effort combining:
+- Drone operations
+- Photogrammetry
+- Construction documentation
+- Spatial analytics
+- Orthomosaic mapping
+- 3D modeling
+- Digital twin workflows
 
-Curious how **data science meets aerial innovation**? Overwatch combines precision drone technology with real-world insights to help you see properties from a completely new perspective.  
+Overwatch explores how unmanned aerial systems (UAS) can become intelligent data collection tools for:
+- Construction progress tracking
+- Site documentation
+- Property inspections
+- Real estate media
+- Mapping & visualization
+- Infrastructure analysis
 
-Ready to experience it firsthand?  
-**[🚀 Book Your Free Estimate](https://calendly.com/kadad1312/drone-project-scoping)**
+The goal is simple:
+
+> Transform aerial visuals into measurable, actionable information.
+
+---
+
+# ⚙️ Overwatch OS
+
+## A Probabilistic Decision Operating System
+
+Alongside physical-world projects, I’m also building **Overwatch OS** — a systems-engineering framework centered around probabilistic analysis, data tracking, risk management, and operational workflows.
+
+The project treats decision-making like an engineering system:
+- Inputs
+- Verification layers
+- Risk constraints
+- Calibration
+- Feedback loops
+- Long-term optimization
+
+Rather than relying on emotion or isolated outcomes, the system focuses on:
+- Process integrity
+- Statistical reasoning
+- Data-driven iteration
+- Continuous refinement
+
+Overwatch OS reflects my broader interest in how software, analytics, and systems engineering principles can be applied outside traditional tech environments.
+
+---
+
+# 🚐 Overwatch Mobility Solutions
+
+I’m also exploring the development of **Overwatch Mobility Solutions** — a future mobility and rental platform concept focused on modular adventure and mobile-workspace vehicles.
+
+The long-term vision combines:
+- Remote work infrastructure
+- Mobile operations
+- Off-grid capability
+- Smart storage systems
+- Connectivity & automation
+- Outdoor utility design
+
+This project sits at the intersection of:
+- Engineering
+- Mobility
+- Technology
+- Entrepreneurship
+- Lifestyle infrastructure
+
+---
+
+# Mission
+
+My mission is to bridge the gap between:
+- Data and infrastructure
+- Software and physical systems
+- Analytics and field operations
+- Engineering and emerging technology
+
+Whether through drones, CAD systems, software workflows, or operational frameworks, I’m interested in building tools and systems that make the physical world:
+- More measurable
+- More connected
+- More intelligent
+
+---
+
+# Looking Ahead
+
+Over the long term, I plan to continue expanding into:
+- Digital twins
+- BIM/VDC workflows
+- Automation systems
+- AI-assisted engineering
+- Geospatial intelligence
+- Infrastructure visualization
+- Systems architecture
+
+Everything here is part of a larger process of experimentation, iteration, and growth.
+
+At its core, this site represents an evolving idea:
+
+> **Technology becomes most powerful when it helps us better understand, model, and improve the real world.**
+
+---
+
+# 🛩️ Book a Drone Project Consultation
+
+Interested in aerial mapping, inspections, or construction documentation?
+
+Overwatch combines precision drone technology with practical field workflows to deliver actionable visual and spatial data for real-world projects.
+
+### 🚀 Schedule a Free Project Consultation
+
+👉 [Book Here](https://calendly.com/kadad1312/drone-project-scoping)
