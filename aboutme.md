@@ -4,8 +4,6 @@ title: About Me
 subtitle: Systems. Data. Infrastructure.
 ---
 
-# About Me
-
 Hi, I’m **Khaled Adad** — an AEC systems engineer, drone operator, technologist, and builder focused on the intersection of **data, infrastructure, automation, and real-world systems**.
 
 My background spans:
