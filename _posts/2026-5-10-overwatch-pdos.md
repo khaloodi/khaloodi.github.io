@@ -18,6 +18,8 @@ tags:
 permalink: /overwatch-os-alpha-qa/
 ---
 
+![](/img/overwatch-os-alpha-qa.png)
+
 # Deploying Overwatch OS — Entering the QA Phase
 
 Over the past several months, I’ve been building something that started as a simple question:
