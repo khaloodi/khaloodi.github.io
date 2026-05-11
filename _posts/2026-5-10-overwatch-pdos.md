@@ -2,7 +2,7 @@
 layout: post
 title: "Deploying Overwatch OS — Entering the QA Phase"
 subtitle: "From Systems Architecture to a Live Operational Alpha"
-image: /img/overwatch-os-alpha-qa.png
+image: /img/overwatch-os.jpg
 date: 2026-05-10
 tags:
   - Overwatch OS
