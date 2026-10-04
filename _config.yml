@@ -24,8 +24,8 @@ share-title: Welcome to my blog!
 # List of links in the navigation bar
 navbar-links:
     Stream: "https://www.twitch.tv/projectkhaled"
-    Daily Bugle: "https://www.khaloodi.github.io/"
-    Overwatch: "https://www.khaloodi.github.io/drone-inspections-landing/"
+    Daily Bugle: "http://www.khaloodi.github.io/"
+    Overwatch: "http://www.khaloodi.github.io/drone-inspections-landing/"
     # My Work:
 #     - Drone Flight Simulator: ""
       # - Chicago Elite Pest Control: "https://www.khaledadad.com/ChicagoElitePestControl/"
