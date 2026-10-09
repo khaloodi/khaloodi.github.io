@@ -58,7 +58,7 @@ It strengthened my interest in how buildings function as interconnected systems,
 
 ## Precision-Based Aerial Services
 
-[Overwatch Drone Mapping](https://www.khaledadad.com/drone-inspections-landing/?utm_source=chatgpt.com) is my drone mapping and aerial data initiative focused on bringing modern spatial technology into real-world applications.
+[Overwatch Drone Mapping](https://www.khaloodi.github.io/drone-inspections-landing/?utm_source=chatgpt.com) is my drone mapping and aerial data initiative focused on bringing modern spatial technology into real-world applications.
 
 What started as an interest in aerial imaging evolved into a larger effort combining:
 - Drone operations
