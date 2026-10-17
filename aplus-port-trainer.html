@@ -1,0 +1,501 @@
+---
+layout: page
+title: A+ Port & Protocol Trainer
+subtitle: Free practice for the ports and protocols on the CompTIA A+ Core 1 exam.
+permalink: /aplus-port-trainer/
+tags:
+  - CompTIA A+
+  - Learning in Public
+---
+
+<style>
+  #pt {
+    --pt-ink: #1f2933;
+    --pt-muted: #616e7c;
+    --pt-line: #e4e7eb;
+    --pt-soft: #f5f7fa;
+    --pt-accent: #0b6bcb;
+    --pt-accent-soft: #e6f0fb;
+    --pt-good: #1f8a4c;
+    --pt-good-soft: #e8f6ee;
+    --pt-bad: #c0392b;
+    --pt-bad-soft: #fdecea;
+    color: var(--pt-ink);
+    margin-bottom: 40px;
+  }
+  #pt .pt-card {
+    border: 1px solid var(--pt-line);
+    border-radius: 10px;
+    padding: 20px;
+    background: #fff;
+    margin-bottom: 24px;
+  }
+  #pt .pt-modes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  #pt .pt-mode {
+    border: 1px solid var(--pt-line);
+    background: var(--pt-soft);
+    color: var(--pt-ink);
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  #pt .pt-mode[aria-pressed="true"] {
+    background: var(--pt-accent);
+    border-color: var(--pt-accent);
+    color: #fff;
+  }
+  #pt .pt-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: var(--pt-muted);
+    margin-bottom: 8px;
+  }
+  #pt .pt-bar {
+    height: 6px;
+    background: var(--pt-line);
+    border-radius: 999px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  #pt .pt-bar span {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: var(--pt-accent);
+    transition: width .2s ease;
+  }
+  #pt .pt-prompt-label {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--pt-muted);
+    margin: 0 0 6px;
+  }
+  #pt .pt-prompt {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 0 0 20px;
+    overflow-wrap: anywhere;
+  }
+  #pt .pt-prompt.pt-long {
+    font-size: 19px;
+    font-weight: 600;
+  }
+  #pt .pt-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  @media (max-width: 520px) {
+    #pt .pt-options { grid-template-columns: 1fr; }
+    #pt .pt-prompt { font-size: 22px; }
+  }
+  #pt .pt-option {
+    text-align: left;
+    border: 1px solid var(--pt-line);
+    background: #fff;
+    color: var(--pt-ink);
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+  }
+  #pt .pt-option:hover:not(:disabled) {
+    border-color: var(--pt-accent);
+    background: var(--pt-accent-soft);
+  }
+  #pt .pt-option:disabled { cursor: default; }
+  #pt .pt-option kbd {
+    background: var(--pt-soft);
+    color: var(--pt-muted);
+    border: 1px solid var(--pt-line);
+    box-shadow: none;
+    font-size: 12px;
+    padding: 1px 6px;
+  }
+  #pt .pt-option.pt-correct {
+    border-color: var(--pt-good);
+    background: var(--pt-good-soft);
+  }
+  #pt .pt-option.pt-wrong {
+    border-color: var(--pt-bad);
+    background: var(--pt-bad-soft);
+  }
+  #pt .pt-feedback {
+    min-height: 24px;
+    margin: 16px 0 0;
+    font-size: 15px;
+  }
+  #pt .pt-feedback strong.pt-yes { color: var(--pt-good); }
+  #pt .pt-feedback strong.pt-no { color: var(--pt-bad); }
+  #pt .pt-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 16px;
+  }
+  #pt .pt-btn {
+    border: 1px solid var(--pt-accent);
+    background: var(--pt-accent);
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 18px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  #pt .pt-btn.pt-secondary {
+    background: #fff;
+    color: var(--pt-accent);
+  }
+  #pt .pt-hidden { display: none; }
+  #pt .pt-score {
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0;
+  }
+  #pt .pt-missed {
+    list-style: none;
+    padding: 0;
+    margin: 16px 0 0;
+  }
+  #pt .pt-missed li {
+    border-top: 1px solid var(--pt-line);
+    padding: 10px 0;
+    font-size: 15px;
+  }
+  #pt .pt-table-wrap { overflow-x: auto; }
+  #pt table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+  }
+  #pt th, #pt td {
+    border-bottom: 1px solid var(--pt-line);
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  #pt th { background: var(--pt-soft); }
+  #pt td:first-child { white-space: nowrap; font-weight: 600; }
+  #pt details summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 17px;
+  }
+  #pt .pt-signup h2 { margin-top: 0; }
+  #pt .pt-fine {
+    font-size: 13px;
+    color: var(--pt-muted);
+  }
+</style>
+
+<div id="pt">
+
+  <p>I'm studying for CompTIA A+ right now, and the ports-and-protocols list was the first thing I had to drill until it stuck. So I built this trainer. Pick a mode, answer 15 questions, and the ones you miss come back until you know them.</p>
+
+  <div class="pt-card" id="pt-quiz">
+    <div class="pt-modes" role="group" aria-label="Quiz mode">
+      <button type="button" class="pt-mode" data-mode="mixed" aria-pressed="true">Mixed</button>
+      <button type="button" class="pt-mode" data-mode="port" aria-pressed="false">Port &rarr; Protocol</button>
+      <button type="button" class="pt-mode" data-mode="protocol" aria-pressed="false">Protocol &rarr; Port</button>
+      <button type="button" class="pt-mode" data-mode="use" aria-pressed="false">What's it for?</button>
+      <button type="button" class="pt-mode" data-mode="transport" aria-pressed="false">TCP or UDP?</button>
+    </div>
+
+    <div id="pt-play">
+      <div class="pt-meta">
+        <span id="pt-progress">Question 1 of 15</span>
+        <span id="pt-tally">Score: 0</span>
+      </div>
+      <div class="pt-bar"><span id="pt-bar"></span></div>
+
+      <p class="pt-prompt-label" id="pt-prompt-label"></p>
+      <p class="pt-prompt" id="pt-prompt"></p>
+      <div class="pt-options" id="pt-options"></div>
+
+      <p class="pt-feedback" id="pt-feedback" aria-live="polite"></p>
+      <div class="pt-actions">
+        <button type="button" class="pt-btn pt-hidden" id="pt-next">Next question</button>
+      </div>
+      <p class="pt-fine">Keyboard: press 1&ndash;4 to answer, Enter for the next question.</p>
+    </div>
+
+    <div id="pt-results" class="pt-hidden">
+      <p class="pt-prompt-label">Round complete</p>
+      <p class="pt-score" id="pt-score"></p>
+      <p id="pt-summary"></p>
+      <div class="pt-actions">
+        <button type="button" class="pt-btn" id="pt-retry-missed">Practice the ones I missed</button>
+        <button type="button" class="pt-btn pt-secondary" id="pt-new-round">New round</button>
+      </div>
+      <ul class="pt-missed" id="pt-missed"></ul>
+    </div>
+  </div>
+
+  <div class="pt-card pt-signup" id="pt-signup">
+    <h2>Want my full A+ study plan?</h2>
+    <p>I'm documenting my whole path to A+: the week-by-week plan, the AI prompts I use to understand tricky topics, and what actually helped. Get the free study planner and 50 AI study prompts by email.</p>
+    <script async data-uid="f00e31b547" src="https://project-khaled.kit.com/f00e31b547/index.js"></script>
+  </div>
+
+  <div class="pt-card">
+    <details>
+      <summary>Cheat sheet: all ports and protocols</summary>
+      <div class="pt-table-wrap">
+        <table>
+          <thead>
+            <tr><th>Port</th><th>Protocol</th><th>TCP/UDP</th><th>What it does</th></tr>
+          </thead>
+          <tbody id="pt-table"></tbody>
+        </table>
+      </div>
+    </details>
+  </div>
+
+  <p class="pt-fine">Based on the ports and protocols listed in the CompTIA A+ Core 1 exam objectives. Always check the current official objectives before your exam. This is an independent study tool, not affiliated with or endorsed by CompTIA. CompTIA and A+ are trademarks of CompTIA, Inc.</p>
+</div>
+
+<script>
+(function () {
+  var ITEMS = [
+    { port: "20, 21", proto: "FTP", name: "File Transfer Protocol", transport: "TCP", use: "Transfers files between a client and a server, sending credentials in plaintext (21 = control, 20 = data)" },
+    { port: "22", proto: "SSH", name: "Secure Shell", transport: "TCP", use: "Encrypted remote command-line access; also carries SFTP and SCP file transfers" },
+    { port: "23", proto: "Telnet", name: "Telnet", transport: "TCP", use: "Unencrypted remote command-line access (legacy, replaced by SSH)" },
+    { port: "25", proto: "SMTP", name: "Simple Mail Transfer Protocol", transport: "TCP", use: "Sends email from clients to servers and between mail servers" },
+    { port: "53", proto: "DNS", name: "Domain Name System", transport: "TCP/UDP", use: "Resolves hostnames to IP addresses" },
+    { port: "67, 68", proto: "DHCP", name: "Dynamic Host Configuration Protocol", transport: "UDP", use: "Automatically assigns IP addresses and network settings to devices (67 = server, 68 = client)" },
+    { port: "80", proto: "HTTP", name: "Hypertext Transfer Protocol", transport: "TCP", use: "Unencrypted web traffic" },
+    { port: "110", proto: "POP3", name: "Post Office Protocol 3", transport: "TCP", use: "Downloads email from a server to a single device, usually removing it from the server" },
+    { port: "137–139", proto: "NetBIOS/NetBT", name: "NetBIOS over TCP/IP", transport: "TCP/UDP", use: "Legacy Windows name resolution and file and printer sharing over TCP/IP" },
+    { port: "143", proto: "IMAP", name: "Internet Message Access Protocol", transport: "TCP", use: "Accesses email that stays on the server, synced across multiple devices" },
+    { port: "161, 162", proto: "SNMP", name: "Simple Network Management Protocol", transport: "UDP", use: "Monitors and manages network devices like routers and switches (162 = traps)" },
+    { port: "389", proto: "LDAP", name: "Lightweight Directory Access Protocol", transport: "TCP", use: "Queries and updates directory services such as Active Directory" },
+    { port: "443", proto: "HTTPS", name: "HTTP Secure", transport: "TCP", use: "Encrypted web traffic using TLS" },
+    { port: "445", proto: "SMB/CIFS", name: "Server Message Block", transport: "TCP", use: "Windows file and printer sharing directly over TCP" },
+    { port: "3389", proto: "RDP", name: "Remote Desktop Protocol", transport: "TCP", use: "Remote graphical desktop access to Windows computers" }
+  ];
+  var TRANSPORTS = ["TCP", "UDP", "TCP/UDP"];
+  var TRANSPORT_LABEL = { "TCP": "TCP", "UDP": "UDP", "TCP/UDP": "Both TCP and UDP" };
+  var ROUND_LENGTH = 15;
+  var STORE_KEY = "aplusPortTrainer.v1";
+
+  var el = function (id) { return document.getElementById(id); };
+  var portLabel = function (it) { return (/[,\u2013]/.test(it.port) ? "ports " : "port ") + it.port; };
+  var state = { mode: "mixed", queue: [], index: 0, score: 0, missed: [], answered: false, current: null };
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch (e) { return {}; }
+  }
+  function save(data) {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(data)); } catch (e) { /* storage unavailable */ }
+  }
+
+  function shuffle(list) {
+    var a = list.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
+  }
+
+  function pickDistractors(answer, field, count) {
+    var pool = [];
+    ITEMS.forEach(function (it) {
+      if (it[field] !== answer && pool.indexOf(it[field]) === -1) pool.push(it[field]);
+    });
+    return shuffle(pool).slice(0, count);
+  }
+
+  function buildQuestion(item, mode) {
+    if (mode === "mixed") mode = shuffle(["port", "protocol", "use", "transport"])[0];
+    if (mode === "port") {
+      return { item: item, label: "Which protocol uses this port?", prompt: "Port " + item.port, answer: item.proto,
+        options: shuffle([item.proto].concat(pickDistractors(item.proto, "proto", 3))) };
+    }
+    if (mode === "protocol") {
+      return { item: item, label: "Which port does this protocol use?", prompt: item.proto + " (" + item.name + ")", answer: item.port,
+        options: shuffle([item.port].concat(pickDistractors(item.port, "port", 3))) };
+    }
+    if (mode === "use") {
+      return { item: item, label: "Which protocol does this?", prompt: item.use, long: true, answer: item.proto,
+        options: shuffle([item.proto].concat(pickDistractors(item.proto, "proto", 3))) };
+    }
+    return { item: item, label: "Does this protocol use TCP, UDP, or both?", prompt: item.proto + " (" + portLabel(item) + ")", answer: item.transport,
+      options: TRANSPORTS.slice(), labels: TRANSPORT_LABEL };
+  }
+
+  function startRound(items) {
+    var source = items && items.length ? items : ITEMS;
+    var queue = shuffle(source);
+    while (queue.length < ROUND_LENGTH) queue = queue.concat(shuffle(source));
+    state.queue = queue.slice(0, ROUND_LENGTH).map(function (it) { return buildQuestion(it, state.mode); });
+    state.index = 0;
+    state.score = 0;
+    state.missed = [];
+    el("pt-results").classList.add("pt-hidden");
+    el("pt-play").classList.remove("pt-hidden");
+    render();
+  }
+
+  function render() {
+    var q = state.queue[state.index];
+    state.current = q;
+    state.answered = false;
+    el("pt-progress").textContent = "Question " + (state.index + 1) + " of " + state.queue.length;
+    el("pt-tally").textContent = "Score: " + state.score;
+    el("pt-bar").style.width = (state.index / state.queue.length * 100) + "%";
+    el("pt-prompt-label").textContent = q.label;
+    var prompt = el("pt-prompt");
+    prompt.textContent = q.prompt;
+    prompt.classList.toggle("pt-long", !!q.long);
+    el("pt-feedback").textContent = "";
+    el("pt-next").classList.add("pt-hidden");
+
+    var box = el("pt-options");
+    box.innerHTML = "";
+    q.options.forEach(function (opt, i) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "pt-option";
+      b.setAttribute("data-value", opt);
+      var k = document.createElement("kbd");
+      k.textContent = String(i + 1);
+      var span = document.createElement("span");
+      span.textContent = q.labels ? q.labels[opt] : opt;
+      b.appendChild(k);
+      b.appendChild(span);
+      b.addEventListener("click", function () { answer(opt); });
+      box.appendChild(b);
+    });
+  }
+
+  function answer(value) {
+    if (state.answered) return;
+    state.answered = true;
+    var q = state.current;
+    var right = value === q.answer;
+    if (right) state.score++;
+    else if (state.missed.indexOf(q.item) === -1) state.missed.push(q.item);
+
+    Array.prototype.forEach.call(el("pt-options").children, function (b) {
+      var v = b.getAttribute("data-value");
+      b.disabled = true;
+      if (v === q.answer) b.classList.add("pt-correct");
+      else if (v === value) b.classList.add("pt-wrong");
+    });
+
+    var it = q.item;
+    var fb = el("pt-feedback");
+    fb.innerHTML = "";
+    var verdict = document.createElement("strong");
+    verdict.className = right ? "pt-yes" : "pt-no";
+    verdict.textContent = right ? "Correct. " : "Not quite. ";
+    fb.appendChild(verdict);
+    fb.appendChild(document.createTextNode(it.proto + " uses " + portLabel(it) + " (" + TRANSPORT_LABEL[it.transport] + "): " + it.use + "."));
+
+    el("pt-tally").textContent = "Score: " + state.score;
+    var next = el("pt-next");
+    next.textContent = state.index + 1 < state.queue.length ? "Next question" : "See results";
+    next.classList.remove("pt-hidden");
+    next.focus({ preventScroll: true });
+  }
+
+  function next() {
+    if (!state.answered) return;
+    if (state.index + 1 < state.queue.length) {
+      state.index++;
+      render();
+    } else {
+      finish();
+    }
+  }
+
+  function finish() {
+    var pct = Math.round(state.score / state.queue.length * 100);
+    var data = load();
+    var best = data.best || {};
+    var prevBest = best[state.mode] || 0;
+    if (pct > prevBest) best[state.mode] = pct;
+    data.best = best;
+    save(data);
+
+    el("pt-bar").style.width = "100%";
+    el("pt-play").classList.add("pt-hidden");
+    el("pt-results").classList.remove("pt-hidden");
+    el("pt-score").textContent = pct + "%";
+    var summary = state.score + " of " + state.queue.length + " correct.";
+    if (pct > prevBest && prevBest > 0) summary += " New personal best for this mode!";
+    else if (prevBest > 0) summary += " Your best in this mode: " + Math.max(prevBest, pct) + "%.";
+    el("pt-summary").textContent = summary;
+
+    var list = el("pt-missed");
+    list.innerHTML = "";
+    state.missed.forEach(function (it) {
+      var li = document.createElement("li");
+      var b = document.createElement("strong");
+      b.textContent = it.proto + " — " + portLabel(it) + " (" + TRANSPORT_LABEL[it.transport] + ")";
+      li.appendChild(b);
+      li.appendChild(document.createElement("br"));
+      li.appendChild(document.createTextNode(it.use));
+      list.appendChild(li);
+    });
+    el("pt-retry-missed").classList.toggle("pt-hidden", state.missed.length === 0);
+  }
+
+  function setMode(mode) {
+    state.mode = mode;
+    Array.prototype.forEach.call(document.querySelectorAll("#pt .pt-mode"), function (b) {
+      b.setAttribute("aria-pressed", b.getAttribute("data-mode") === mode ? "true" : "false");
+    });
+    startRound();
+  }
+
+  function fillTable() {
+    var body = el("pt-table");
+    ITEMS.forEach(function (it) {
+      var tr = document.createElement("tr");
+      [it.port, it.proto + " (" + it.name + ")", TRANSPORT_LABEL[it.transport], it.use].forEach(function (text) {
+        var td = document.createElement("td");
+        td.textContent = text;
+        tr.appendChild(td);
+      });
+      body.appendChild(tr);
+    });
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll("#pt .pt-mode"), function (b) {
+    b.addEventListener("click", function () { setMode(b.getAttribute("data-mode")); });
+  });
+  el("pt-next").addEventListener("click", next);
+  el("pt-new-round").addEventListener("click", function () { startRound(); });
+  el("pt-retry-missed").addEventListener("click", function () { startRound(state.missed.slice()); });
+
+  document.addEventListener("keydown", function (e) {
+    if (e.target && /input|textarea|select/i.test(e.target.tagName)) return;
+    if (el("pt-play").classList.contains("pt-hidden")) return;
+    var n = parseInt(e.key, 10);
+    if (!state.answered && n >= 1 && n <= state.current.options.length) {
+      answer(state.current.options[n - 1]);
+    } else if (state.answered && e.key === "Enter" && e.target !== el("pt-next")) {
+      e.preventDefault();
+      next();
+    }
+  });
+
+  fillTable();
+  startRound();
+})();
+</script>
