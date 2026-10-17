@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>A+ Study Planner + 50 AI Study Prompts | Project Khaled</title>
+<style>
+  @page { size: Letter; margin: 0.5in 0.6in 0.55in; }
+  :root {
+    --ink: #1f2933;
+    --muted: #5f6b7a;
+    --line: #d9dee5;
+    --soft: #f3f6f9;
+    --accent: #0b6bcb;
+    --accent-soft: #e7f0fb;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    font-size: 9.6pt;
+    line-height: 1.38;
+    margin: 0;
+  }
+  h1, h2, h3 { line-height: 1.2; margin: 0; }
+  h2 {
+    font-size: 18pt;
+    margin-bottom: 3pt;
+  }
+  h2 + .lede { margin-top: 0; }
+  h3 {
+    font-size: 11pt;
+    margin: 10pt 0 4pt;
+  }
+  p { margin: 0 0 7pt; }
+  .lede { color: var(--muted); font-size: 10pt; margin-bottom: 8pt; }
+  .page { page-break-after: always; }
+  .page:last-child { page-break-after: auto; }
+  .kicker {
+    font-size: 8.5pt;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 6pt;
+  }
+
+  /* Cover */
+  .cover {
+    height: 9.7in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .cover h1 {
+    font-size: 40pt;
+    letter-spacing: -.02em;
+    margin: 10pt 0 14pt;
+  }
+  .cover .sub { font-size: 14pt; color: var(--muted); max-width: 5.2in; }
+  .cover .badge {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    border-radius: 6pt;
+    padding: 5pt 10pt;
+    font-size: 10pt;
+  }
+  .cover .inside {
+    border-top: 2pt solid var(--ink);
+    padding-top: 12pt;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6pt 24pt;
+    font-size: 10.5pt;
+  }
+  .cover .inside div::before { content: "\2192  "; color: var(--accent); font-weight: 700; }
+  .cover .brand { font-size: 10pt; color: var(--muted); margin-top: 18pt; }
+
+  /* Boxes and tables */
+  .note {
+    background: var(--accent-soft);
+    border-left: 3pt solid var(--accent);
+    padding: 6pt 10pt;
+    margin: 8pt 0;
+    border-radius: 0 4pt 4pt 0;
+  }
+  .note p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 6pt 0 10pt; }
+  th, td {
+    border: 1px solid var(--line);
+    padding: 3.5pt 6pt;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { background: var(--soft); font-size: 9.5pt; }
+  td.num, th.num { text-align: right; white-space: nowrap; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 16pt; }
+
+  /* Weeks */
+  .week {
+    border: 1px solid var(--line);
+    border-radius: 6pt;
+    padding: 7pt 10pt;
+    margin-bottom: 7pt;
+    page-break-inside: avoid;
+  }
+  .week-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4pt;
+  }
+  .week-head strong { font-size: 11.5pt; }
+  .week-head span { font-size: 9pt; color: var(--muted); }
+  .week ul { margin: 0; padding-left: 0; list-style: none; columns: 2; column-gap: 18pt; }
+  .week li { font-size: 9pt; margin-bottom: 1pt; break-inside: avoid; padding-left: 15pt; text-indent: -15pt; }
+  .week li::before { content: "\2610  "; color: var(--muted); }
+  .week .goal { font-size: 9pt; color: var(--muted); margin: 3pt 0 0; }
+
+  /* Checklists */
+  .checks { list-style: none; padding: 0; margin: 4pt 0 10pt; }
+  .checks li { margin-bottom: 4pt; padding-left: 16pt; text-indent: -16pt; }
+  .checks li::before { content: "\2610  "; color: var(--muted); }
+  .blank td { height: 18pt; }
+
+  /* Prompts */
+  .prompt-group { page-break-inside: auto; }
+  ol.prompts { padding-left: 0; margin: 4pt 0 6pt; list-style: none; counter-reset: none; }
+  ol.prompts li {
+    border: 1px solid var(--line);
+    border-radius: 5pt;
+    padding: 4pt 9pt 4pt 32pt;
+    margin-bottom: 4pt;
+    position: relative;
+    page-break-inside: avoid;
+  }
+  ol.prompts li b {
+    position: absolute;
+    left: 9pt;
+    top: 4.5pt;
+    color: var(--accent);
+    font-size: 9.5pt;
+  }
+  ol.prompts li code {
+    font-family: inherit;
+    background: var(--soft);
+    border-radius: 3pt;
+    padding: 0 3pt;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .fine { font-size: 8.5pt; color: var(--muted); }
+  a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<!-- ============ COVER ============ -->
+<section class="page cover">
+  <div>
+    <div class="kicker">Project Khaled &middot; Free Study Kit</div>
+    <span class="badge">CompTIA A+ &middot; Core 1 (220-1201) + Core 2 (220-1202)</span>
+    <h1>The A+ Study Planner<br>+ 50 AI Study Prompts</h1>
+    <p class="sub">The 8-week plan I'm following to pass both A+ exams, with the AI prompts I use to understand hard topics, drill weak spots, and practice troubleshooting.</p>
+  </div>
+  <div>
+    <div class="inside">
+      <div>How to use this planner</div>
+      <div>The 8-week plan, week by week</div>
+      <div>Exam domains and weights</div>
+      <div>Daily and weekly study rhythm</div>
+      <div>Practice-score tracker</div>
+      <div>Exam-readiness checklist</div>
+      <div>50 AI study prompts in 7 categories</div>
+      <div>Free tools and resources</div>
+    </div>
+    <p class="brand">Made by Khaled Adad &middot; Project Khaled &middot; khaloodi.github.io</p>
+  </div>
+</section>
+
+<!-- ============ HOW TO USE ============ -->
+<section class="page">
+  <div class="kicker">Start here</div>
+  <h2>How to use this planner</h2>
+  <p class="lede">A+ is two exams. You pass Core 1 and Core 2 separately, and you need both to earn the certification. This planner splits your time the same way.</p>
+
+  <h3>The plan in one picture</h3>
+  <table>
+    <tr><th>Weeks</th><th>Focus</th><th>Milestone</th></tr>
+    <tr><td>1&ndash;4</td><td>Core 1: mobile devices, networking, hardware, virtualization and cloud, hardware and network troubleshooting</td><td>Take Core 1 at the end of week 4 (recommended) or keep going</td></tr>
+    <tr><td>5&ndash;7</td><td>Core 2: operating systems, security, software troubleshooting, operational procedures</td><td>Practice scores at or above your target</td></tr>
+    <tr><td>8</td><td>Full practice exams, weak spots, exam-day prep</td><td>Take Core 2 (or both, if you waited)</td></tr>
+  </table>
+
+  <p><strong>Short on time?</strong> Compress each half into 3 weeks by studying 90&ndash;120 minutes a day. <strong>More time?</strong> Stretch each week to 10 days. The order matters more than the speed.</p>
+
+  <h3>Exam domains and weights</h3>
+  <div class="two">
+    <table>
+      <tr><th>Core 1 (220-1201)</th><th class="num">Weight</th></tr>
+      <tr><td>1.0 Mobile Devices</td><td class="num">13%</td></tr>
+      <tr><td>2.0 Networking</td><td class="num">23%</td></tr>
+      <tr><td>3.0 Hardware</td><td class="num">25%</td></tr>
+      <tr><td>4.0 Virtualization and Cloud Computing</td><td class="num">11%</td></tr>
+      <tr><td>5.0 Hardware and Network Troubleshooting</td><td class="num">28%</td></tr>
+    </table>
+    <table>
+      <tr><th>Core 2 (220-1202)</th><th class="num">Weight</th></tr>
+      <tr><td>1.0 Operating Systems</td><td class="num">28%</td></tr>
+      <tr><td>2.0 Security</td><td class="num">28%</td></tr>
+      <tr><td>3.0 Software Troubleshooting</td><td class="num">23%</td></tr>
+      <tr><td>4.0 Operational Procedures</td><td class="num">21%</td></tr>
+    </table>
+  </div>
+  <p class="fine">Passing scores: Core 1 is 675 and Core 2 is 700, both on a 100&ndash;900 scale. Download the official exam objectives from CompTIA and treat them as your master checklist; weights and details can change.</p>
+
+  <h3>The daily rhythm (60&ndash;90 minutes)</h3>
+  <table>
+    <tr><th>Block</th><th>Time</th><th>What you do</th></tr>
+    <tr><td>Learn</td><td>20&ndash;30 min</td><td>Watch or read one objective (a video series, book chapter, or course module)</td></tr>
+    <tr><td>Explain</td><td>15&ndash;20 min</td><td>Write notes in your own words. Use an AI prompt from the prompts section to clear up anything fuzzy</td></tr>
+    <tr><td>Drill</td><td>15&ndash;20 min</td><td>Flashcards plus 10&ndash;20 practice questions on today's topic</td></tr>
+    <tr><td>Review</td><td>10 min</td><td>Re-read what you missed. Add it to your weak-spot list</td></tr>
+  </table>
+
+  <h3>The weekly rhythm</h3>
+  <ul class="checks">
+    <li><strong>One hands-on lab</strong> (build, configure, break, or fix something real or virtual)</li>
+    <li><strong>One timed practice quiz</strong> on the week's domains; log the score in the tracker</li>
+    <li><strong>One review session</strong> on your weak-spot list before starting the next week</li>
+    <li><strong>One day off.</strong> Rest is part of the plan</li>
+  </ul>
+</section>
+
+<!-- ============ CORE 1 WEEKS ============ -->
+<section class="page">
+  <div class="kicker">Weeks 1&ndash;4</div>
+  <h2>Core 1 (220-1201)</h2>
+  <p class="lede">Check off each topic when you can explain it without notes.</p>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 1 &middot; Mobile devices and networking foundations</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Laptop hardware: replacing RAM, storage, batteries, keyboards, screens</li>
+      <li>Mobile display types and components (digitizer, Wi-Fi antenna, webcam)</li>
+      <li>Mobile accessories, ports, and connection methods (USB-C, NFC, Bluetooth, hotspot)</li>
+      <li>Mobile device management, sync, and email configuration</li>
+      <li>TCP vs. UDP and the common ports and protocols</li>
+      <li>Networking hardware: routers, switches (managed/unmanaged), access points, firewalls, PoE</li>
+      <li>OSI model basics as a troubleshooting map</li>
+      <li>Lab: drill ports daily with the free A+ Trainer</li>
+    </ul>
+    <p class="goal">Goal: every port and protocol answered correctly in Port &rarr; Protocol and Protocol &rarr; Port modes.</p>
+  </div>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 2 &middot; Networking in depth</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Wireless standards (802.11 a/b/g/n/ac/ax), frequencies, and channels</li>
+      <li>Wireless security: WPA2, WPA3, and enterprise authentication (RADIUS)</li>
+      <li>Networked host services: DNS, DHCP, file/print, web, mail, authentication, syslog</li>
+      <li>DNS record types and DHCP scopes, leases, and reservations</li>
+      <li>IPv4 vs. IPv6, private vs. public addresses, APIPA, static vs. dynamic</li>
+      <li>SOHO router configuration: NAT, port forwarding, DMZ, firmware updates</li>
+      <li>Internet connection types and network types (LAN, WAN, PAN, MAN, WLAN)</li>
+      <li>Networking tools: crimper, cable tester, toner probe, loopback plug, Wi-Fi analyzer</li>
+    </ul>
+    <p class="goal">Goal: configure (or simulate) a home router from scratch and explain every setting.</p>
+  </div>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 3 &middot; Hardware</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Cables and connectors: network, video, peripheral, storage</li>
+      <li>RAM types, channels, and installation</li>
+      <li>Storage: HDD vs. SSD, interfaces (SATA, NVMe, M.2), and RAID levels 0/1/5/10</li>
+      <li>Motherboard form factors, expansion slots, BIOS/UEFI settings, TPM, Secure Boot</li>
+      <li>CPUs, cooling, and power supplies (wattage, rails, modular vs. non-modular)</li>
+      <li>Peripherals and multifunction devices</li>
+      <li>Printers: laser imaging process, inkjet, thermal, impact; maintenance and sharing</li>
+      <li>Lab: open a PC (or watch a teardown) and name every component</li>
+    </ul>
+    <p class="goal">Goal: recite the laser printing steps in order and pick the right RAID level for a scenario.</p>
+  </div>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 4 &middot; Virtualization, cloud, and troubleshooting</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Virtualization concepts: hypervisor types, VM requirements, sandboxing</li>
+      <li>Cloud models (public, private, hybrid, community) and IaaS / PaaS / SaaS</li>
+      <li>Cloud characteristics: shared resources, elasticity, metered use, availability</li>
+      <li>The CompTIA troubleshooting methodology (all steps, in order)</li>
+      <li>Troubleshooting motherboards, RAM, CPU, power, and storage/RAID</li>
+      <li>Troubleshooting displays, mobile devices, and printers</li>
+      <li>Troubleshooting wired and wireless network problems</li>
+      <li>Two full Core 1 practice exams under timed conditions</li>
+    </ul>
+    <p class="goal">Goal: practice scores consistently above your target. If so, book Core 1.</p>
+  </div>
+</section>
+
+<!-- ============ CORE 2 WEEKS ============ -->
+<section class="page">
+  <div class="kicker">Weeks 5&ndash;8</div>
+  <h2>Core 2 (220-1202)</h2>
+  <p class="lede">Core 2 is about operating systems, security, and how IT work gets done. Expect more scenario questions.</p>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 5 &middot; Operating systems</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Windows editions and their feature differences</li>
+      <li>Installation and upgrade methods, boot methods, partitioning, file systems</li>
+      <li>Command-line tools (ipconfig, ping, tracert, netstat, chkdsk, sfc, diskpart, gpupdate, and more)</li>
+      <li>Windows tools: Task Manager, MMC snap-ins, Event Viewer, Disk Management, Registry Editor</li>
+      <li>Settings and Control Panel utilities</li>
+      <li>Windows networking: workgroups vs. domains, shares, mapped drives, firewall</li>
+      <li>macOS and Linux basics: features, tools, and common commands</li>
+      <li>Lab: install Windows and a Linux distro in VMs and try every tool on the list</li>
+    </ul>
+    <p class="goal">Goal: given a problem, name the exact tool or command you would use first.</p>
+  </div>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 6 &middot; Security</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Physical security measures and logical security concepts</li>
+      <li>Authentication: MFA, SSO, least privilege, access control lists</li>
+      <li>Wireless security protocols and authentication methods</li>
+      <li>Malware types and how to detect, remove, and prevent them</li>
+      <li>Social engineering attacks and other threats and vulnerabilities</li>
+      <li>Windows security settings: Defender, firewall, BitLocker, user accounts, UAC</li>
+      <li>Securing workstations, mobile devices, and SOHO networks</li>
+      <li>Data destruction and disposal methods; browser security settings</li>
+    </ul>
+    <p class="goal">Goal: walk through the malware removal steps in order without notes.</p>
+  </div>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 7 &middot; Software troubleshooting and operational procedures</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Troubleshooting Windows OS problems (boot issues, slow performance, crashes)</li>
+      <li>Troubleshooting mobile OS, app, and security issues</li>
+      <li>Troubleshooting common PC security issues</li>
+      <li>Documentation, ticketing, asset management, and change management</li>
+      <li>Backup and recovery methods (full, incremental, differential, 3-2-1)</li>
+      <li>Safety procedures, environmental controls, and proper disposal</li>
+      <li>Privacy, licensing, and policy concepts; professional communication</li>
+      <li>Scripting basics and remote access technologies</li>
+    </ul>
+    <p class="goal">Goal: explain a change-management process and a backup strategy for a small office.</p>
+  </div>
+
+  <div class="week">
+    <div class="week-head"><strong>Week 8 &middot; Final review and exam day</strong><span>Dates: ____________</span></div>
+    <ul>
+      <li>Full Core 2 practice exam #1 (timed)</li>
+      <li>Review every missed question and its objective</li>
+      <li>Weak-spot sprint: your lowest two domains</li>
+      <li>Full Core 2 practice exam #2 (timed)</li>
+      <li>Practice performance-based questions (PBQs)</li>
+      <li>Quick review: ports, troubleshooting steps, malware removal steps</li>
+      <li>Exam logistics confirmed (see the exam-day checklist)</li>
+      <li>Light review only the day before. Sleep.</li>
+    </ul>
+    <p class="goal">Goal: walk in calm, rested, and already familiar with the question styles.</p>
+  </div>
+</section>
+
+<!-- ============ TRACKERS ============ -->
+<section class="page">
+  <div class="kicker">Track your progress</div>
+  <h2>Practice-score tracker</h2>
+  <p class="lede">Log every timed practice exam. Book the real exam once you're consistently 5&ndash;10 points above your target.</p>
+
+  <table class="blank">
+    <tr><th style="width:14%">Date</th><th style="width:12%">Exam</th><th style="width:30%">Source / quiz</th><th class="num" style="width:12%">Score</th><th>Weakest domain</th></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
+  </table>
+
+  <h3>Weak-spot list</h3>
+  <table class="blank">
+    <tr><th style="width:42%">Topic I keep missing</th><th>Why it's confusing / the fix</th><th style="width:12%">Fixed?</th></tr>
+    <tr><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td></tr>
+  </table>
+
+  <div class="two">
+    <div>
+      <h3>Exam-readiness checklist</h3>
+      <ul class="checks">
+        <li>Scoring above target on 2+ timed practice exams</li>
+        <li>Every exam objective checked off at least once</li>
+        <li>Ports and protocols: 100% in the trainer</li>
+        <li>Troubleshooting methodology memorized in order</li>
+        <li>Practiced performance-based questions</li>
+        <li>Weak-spot list reviewed and mostly fixed</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Exam-day logistics</h3>
+      <ul class="checks">
+        <li>Exam voucher purchased and exam booked</li>
+        <li>Test center or online proctoring confirmed</li>
+        <li>Online: system check passed, quiet room, clear desk</li>
+        <li>Valid government ID ready (name matches booking)</li>
+        <li>Arrive or log in 30 minutes early</li>
+        <li>Plan: flag hard questions, PBQs last if they stall you</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PROMPTS ============ -->
+<section class="page">
+  <div class="kicker">50 AI study prompts</div>
+  <h2>Study smarter with AI</h2>
+  <p class="lede">Copy a prompt into ChatGPT, Claude, Gemini, or any AI assistant. Replace anything in <code style="font-family:inherit;color:var(--accent);font-weight:600">[brackets]</code>.</p>
+
+  <div class="note">
+    <p><strong>Two rules.</strong> First, AI can be confidently wrong, so check anything important against the official objectives or your study materials. Second, never ask for (or share) real exam questions. Using braindumps breaks CompTIA's candidate agreement and can cost you the certification. Everything here generates original practice.</p>
+  </div>
+
+  <div class="prompt-group">
+    <h3>1. Understand a concept (prompts 1&ndash;10)</h3>
+    <ol class="prompts">
+      <li><b>01</b>Explain <code>[topic]</code> like I'm a smart beginner studying for CompTIA A+. Use one real-world analogy, then give me the technical version in 5 bullet points.</li>
+      <li><b>02</b>What's the difference between <code>[concept A]</code> and <code>[concept B]</code>? Give me a comparison table and one scenario where choosing the wrong one causes a problem.</li>
+      <li><b>03</b>I'm studying A+ objective <code>[objective number and name]</code>. List every term I need to know for it, with a one-sentence definition for each.</li>
+      <li><b>04</b>Walk me through what happens step by step when <code>[process, e.g. a computer requests a web page]</code>. Number each step.</li>
+      <li><b>05</b>I think <code>[my explanation of a topic]</code>. Is that correct? Point out anything wrong or missing, gently but clearly.</li>
+      <li><b>06</b>Teach me <code>[topic]</code> using the Feynman technique: explain it simply, then ask me to explain it back, then correct my gaps.</li>
+      <li><b>07</b>Why does <code>[technology]</code> exist? What problem did it solve, and what came before it?</li>
+      <li><b>08</b>Give me the 5 most common misconceptions students have about <code>[topic]</code>, and the correct understanding for each.</li>
+      <li><b>09</b>Explain <code>[topic]</code> at three levels: a one-sentence summary, a one-paragraph explanation, and a deep dive for someone who wants to work in IT.</li>
+      <li><b>10</b>Create a simple text diagram showing how <code>[components or network devices]</code> connect and how data flows between them.</li>
+    </ol>
+  </div>
+
+  <div class="prompt-group">
+    <h3>2. Memorize it (prompts 11&ndash;17)</h3>
+    <ol class="prompts">
+      <li><b>11</b>Create 20 flashcards for <code>[topic]</code> in "front | back" format so I can import them into Anki or Quizlet.</li>
+      <li><b>12</b>Give me 3 memorable mnemonics for <code>[list to memorize, e.g. the troubleshooting steps]</code>. Make at least one funny.</li>
+      <li><b>13</b>Turn these ports and protocols into a short story I'll remember: <code>[list]</code>.</li>
+      <li><b>14</b>Quiz me on <code>[topic]</code> one question at a time. Wait for my answer, tell me if I'm right, explain briefly, then ask the next one. Increase difficulty as I get answers right.</li>
+      <li><b>15</b>Make a one-page cheat sheet for <code>[domain]</code> with only the facts most likely to appear on the exam.</li>
+      <li><b>16</b>Here are the topics I keep forgetting: <code>[list]</code>. Build me a 7-day spaced-repetition review schedule for them.</li>
+      <li><b>17</b>Group these terms into categories that make them easier to remember, and explain the logic of each group: <code>[list of terms]</code>.</li>
+    </ol>
+  </div>
+
+  <div class="prompt-group">
+    <h3>3. Practice questions (prompts 18&ndash;25)</h3>
+    <ol class="prompts">
+      <li><b>18</b>Write 10 original multiple-choice practice questions on <code>[objective]</code> in the style of CompTIA A+. Don't show the answers until I reply with mine.</li>
+      <li><b>19</b>Write 5 "BEST answer" questions on <code>[topic]</code> where more than one option is technically possible, and explain why the best one wins.</li>
+      <li><b>20</b>I got this practice question wrong: <code>[paste question, my answer, correct answer]</code>. Explain why my answer was wrong and how to spot the right one next time.</li>
+      <li><b>21</b>Give me 10 "which tool or command would you use?" questions for Windows troubleshooting.</li>
+      <li><b>22</b>Create a 20-question mixed review covering <code>[list of domains]</code>, weighted toward <code>[my weakest domain]</code>.</li>
+      <li><b>23</b>Write 5 questions with long, wordy scenarios on <code>[topic]</code> so I can practice finding the important details in exam-style questions.</li>
+      <li><b>24</b>Act as a strict exam proctor. Give me a timed 15-question quiz on <code>[domain]</code>, then grade me and tell me which objectives to review.</li>
+      <li><b>25</b>For each of these wrong answer choices, explain why it's wrong so I learn the distractors too: <code>[paste question and options]</code>.</li>
+    </ol>
+  </div>
+
+  <div class="prompt-group">
+    <h3>4. Troubleshooting scenarios and PBQs (prompts 26&ndash;33)</h3>
+    <ol class="prompts">
+      <li><b>26</b>Give me a realistic help-desk ticket about <code>[hardware / network / OS problem]</code>. Let me ask questions and choose steps, and respond like the user would. Don't reveal the cause until I solve it.</li>
+      <li><b>27</b>Walk me through the CompTIA troubleshooting methodology using this problem: <code>[symptom]</code>. Pause at each step and let me decide what to do.</li>
+      <li><b>28</b>Create a performance-based practice task: give me a scenario, a list of items, and ask me to match or order them correctly. Topic: <code>[e.g. cable types, RAID levels, laser printing steps]</code>.</li>
+      <li><b>29</b>A user reports <code>[symptom]</code>. List the 5 most likely causes from most to least likely, and the quickest test for each.</li>
+      <li><b>30</b>Simulate a Windows command prompt. I'll type commands to diagnose <code>[network problem]</code>, and you show realistic output.</li>
+      <li><b>31</b>Give me a SOHO network scenario with something misconfigured. Describe the router settings and let me find the mistake.</li>
+      <li><b>32</b>Create a malware-infection scenario and quiz me on the correct removal steps in order.</li>
+      <li><b>33</b>Here's how I'd solve this ticket: <code>[my steps]</code>. Grade it like a senior technician would, and tell me what I skipped.</li>
+    </ol>
+  </div>
+
+  <div class="prompt-group">
+    <h3>5. Hands-on labs (prompts 34&ndash;39)</h3>
+    <ol class="prompts">
+      <li><b>34</b>Design a free home lab for practicing <code>[topic]</code> using virtual machines and whatever old hardware I have: <code>[list hardware]</code>.</li>
+      <li><b>35</b>Give me a step-by-step lab to practice <code>[skill, e.g. partitioning a drive, setting up a file share]</code> in a Windows virtual machine.</li>
+      <li><b>36</b>Write a 30-minute lab exploring these Linux commands, with a challenge at the end: <code>[list of commands]</code>.</li>
+      <li><b>37</b>I want to break and fix something safely to learn <code>[topic]</code>. Suggest 3 "break it" exercises I can do in a VM, and how to recover from each.</li>
+      <li><b>38</b>Create a checklist for setting up and securing a new SOHO router, and explain why each step matters.</li>
+      <li><b>39</b>Explain what each setting does on this screen and what I should set it to for <code>[goal]</code>: <code>[describe or paste the settings]</code>.</li>
+    </ol>
+  </div>
+
+  <div class="prompt-group">
+    <h3>6. Plan and review (prompts 40&ndash;45)</h3>
+    <ol class="prompts">
+      <li><b>40</b>My exam is on <code>[date]</code> and I can study <code>[X]</code> minutes a day. Build me a day-by-day plan covering all A+ Core <code>[1 or 2]</code> domains, weighted by exam percentage.</li>
+      <li><b>41</b>Here are my practice scores by domain: <code>[scores]</code>. Tell me where to spend my next 7 days and why.</li>
+      <li><b>42</b>Turn my messy notes into a clean, organized study guide with headings and bullets: <code>[paste notes]</code>.</li>
+      <li><b>43</b>Summarize this video transcript or chapter into the key exam facts, then give me 5 questions to check that I understood it: <code>[paste text]</code>.</li>
+      <li><b>44</b>I'm behind schedule by <code>[X days]</code>. Help me adjust my plan without skipping anything heavily weighted.</li>
+      <li><b>45</b>At the end of each week, ask me 10 questions about what I studied and tell me if I'm ready to move on.</li>
+    </ol>
+  </div>
+
+  <div class="prompt-group">
+    <h3>7. Exam strategy and mindset (prompts 46&ndash;50)</h3>
+    <ol class="prompts">
+      <li><b>46</b>What are the best strategies for answering CompTIA-style multiple-choice and performance-based questions? Include time management.</li>
+      <li><b>47</b>Teach me how to spot keywords like BEST, FIRST, and MOST LIKELY in exam questions, with 5 practice examples.</li>
+      <li><b>48</b>Give me a 24-hour pre-exam checklist: what to review, what to skip, and what to do the morning of.</li>
+      <li><b>49</b>I'm nervous about my exam. Help me make a short, practical plan for staying calm during the test.</li>
+      <li><b>50</b>I just passed (or didn't pass) A+. Help me plan what's next: review weak areas for a retake, or map a path to Network+ and Security+.</li>
+    </ol>
+  </div>
+</section>
+
+<!-- ============ RESOURCES ============ -->
+<section class="page">
+  <div class="kicker">Keep going</div>
+  <h2>Free tools and resources</h2>
+  <p class="lede">You don't need to spend much to pass A+. Start here.</p>
+
+  <table>
+    <tr><th style="width:30%">Resource</th><th>Why it helps</th></tr>
+    <tr><td>Official CompTIA A+ exam objectives</td><td>Your master checklist. Free download from CompTIA's website.</td></tr>
+    <tr><td>A+ Port &amp; Protocol Trainer</td><td>My free quiz tool with five practice modes and a missed-answer review.<br><a href="https://khaloodi.github.io/aplus-port-trainer/">khaloodi.github.io/aplus-port-trainer</a></td></tr>
+    <tr><td>Free video courses</td><td>Professor Messer's free A+ video series is a popular starting point. Pair it with any book or course you like.</td></tr>
+    <tr><td>Virtual machines</td><td>VirtualBox (free) or Hyper-V lets you practice Windows and Linux safely.</td></tr>
+    <tr><td>Flashcards</td><td>Anki or Quizlet. Use prompt 11 to generate cards for any topic.</td></tr>
+    <tr><td>The Project Khaled blog</td><td>I'm documenting my study path in public, including what works and what doesn't.<br><a href="https://khaloodi.github.io">khaloodi.github.io</a></td></tr>
+  </table>
+
+  <div class="note">
+    <p><strong>Studying with me?</strong> I'm taking A+ myself and posting what I learn along the way. Reply to any of my emails with your exam date and your hardest topic. I read every reply, and your questions shape what I make next.</p>
+  </div>
+
+  <p style="margin-top:20pt"><strong>Good luck. You've got this.</strong><br>Khaled</p>
+
+  <p class="fine" style="margin-top:40pt">&copy; 2026 Khaled Adad / Project Khaled. Free for personal study use; please share the signup link rather than this file. This is an independent study resource, not affiliated with or endorsed by CompTIA. CompTIA and A+ are trademarks of CompTIA, Inc. Exam details can change, so always confirm against the current official objectives.</p>
+</section>
+
+</body>
+</html>
