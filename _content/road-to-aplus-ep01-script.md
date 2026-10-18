@@ -13,13 +13,15 @@ How to read this:
 ## 1. Hook
 **[SCENE: Face]**
 
-I'm taking the CompTIA A+ exam. Actually, two exams. Core 1 at `[Core 1 date]`, Core 2 before the end of the year, and then Network+ by February.
+I'm taking the CompTIA A+ exam. Well, technically two exams **[pause]** because apparently one wasn't enough. Core 1 at `[Core 1 date]`, Core 2 before New Year's, and then Network+ by February.
 
-And I'm documenting all of it. Every week you'll see what I studied, my practice test scores, even the bad ones, and the AI prompts and tools I'm using to learn faster.
+And I'm documenting all of it. My study plan, my practice scores, even the embarrassing ones, and every AI trick I'm using to learn this stuff faster.
 
-By the end of this video, you'll have my full study plan, and a free tool I built to finally memorize ports and protocols.
+Stick around to the end, because I'm giving you my whole study plan, and a free tool I built because flashcards were not working for me.
 
-This is Road to A+. Episode one.
+**[Beat. Smile. Signature line, same delivery every episode:]**
+
+I'm Khaled. I build things with code and drones, and right now I'm trying to pass CompTIA A+ without losing my mind. This is Road to A+.
 
 **[PAUSE 1 second, then cut]**
 
