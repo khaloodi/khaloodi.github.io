@@ -38,6 +38,8 @@ Key links:
 
 ## 3. Episode outline (talking points, not a script)
 
+Prefer to read word for word? Use the full script: [road-to-aplus-ep01-script.md](road-to-aplus-ep01-script.md).
+
 Talk through each section naturally. Redo any section that doesn't feel right; you'll cut mistakes in editing.
 
 ### 0:00 — Hook (face cam, 20–30 sec)
