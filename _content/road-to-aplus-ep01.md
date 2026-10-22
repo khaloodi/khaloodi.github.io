@@ -7,8 +7,8 @@
 Everything for week 1: the episode outline, YouTube description, 5 Shorts, Threads posts, and 2 Instagram carousels. Fill in anything in `[brackets]` before recording.
 
 Key links:
-- Trainer (has the signup form): https://khaloodi.github.io/aplus-port-trainer/
-- Blog: https://khaloodi.github.io
+- Trainer (has the signup form): https://projectkhaled.com/aplus-port-trainer/
+- Blog: https://projectkhaled.com
 
 ---
 
@@ -95,12 +95,12 @@ Do these live. Real reactions are better than polished ones.
 I'm taking CompTIA A+ one exam at a time: Core 1 in [Month], Core 2 by the end of the year, then Network+ by February. I'm documenting everything: my study plan, practice scores, AI prompts, and free tools. This is Episode 1 of Road to A+.
 
 📘 FREE A+ Study Planner + 50 AI Study Prompts:
-https://khaloodi.github.io/aplus-port-trainer/
+https://projectkhaled.com/aplus-port-trainer/
 
 🧠 Free A+ Port & Protocol Trainer:
-https://khaloodi.github.io/aplus-port-trainer/
+https://projectkhaled.com/aplus-port-trainer/
 
-✍️ Blog: https://khaloodi.github.io
+✍️ Blog: https://projectkhaled.com
 
 CHAPTERS
 0:00 I'm taking CompTIA A+
