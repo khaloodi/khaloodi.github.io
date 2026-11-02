@@ -794,3 +794,16 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/* --- Music video embed --- */
+
+.blog-post .music-video {
+  margin: 0 0 30px;
+}
+
+.blog-post .music-video figcaption {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #555;
+}
