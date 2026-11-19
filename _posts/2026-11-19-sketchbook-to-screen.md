@@ -69,5 +69,5 @@ So give the video another play. If a line sticks with you, try imagining it as a
 
 ## Read the books inspired by Cris
 
-- [View the first book on Amazon (paperback)](https://www.amazon.com/dp/B0HS6P891Q)
-- [View the second book on Amazon (ebook)](https://www.amazon.com/dp/B0HS6CF3WX)
+- [Anime Character Lab: A Beginner Drawing Workbook (paperback)](https://www.amazon.com/dp/B0HS6P891Q)
+- [Anime Character Lab: A Beginner Drawing Workbook (ebook)](https://www.amazon.com/dp/B0HS6CF3WX)
