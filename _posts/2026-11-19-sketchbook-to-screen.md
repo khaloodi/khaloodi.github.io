@@ -7,8 +7,10 @@ meta-description: "Watch Cristiana Love’s official “BAD IDEA” lyric video.
 excerpt: "A singer can hold a word for one more beat. A graphic novelist can give a character one more silent panel. Cris’s “BAD IDEA” lyric video got me thinking about what that extra moment does."
 date: 2026-11-19
 author: Khaled Adad
-image: "https://i.ytimg.com/vi/ey65rdMnbjM/hqdefault.jpg"
-share-img: "https://i.ytimg.com/vi/ey65rdMnbjM/hqdefault.jpg"
+# image: "https://i.ytimg.com/vi/ey65rdMnbjM/hqdefault.jpg"
+# share-img: "https://i.ytimg.com/vi/ey65rdMnbjM/hqdefault.jpg"
+image: /img/bad-idea-cover.jpg
+share-img: https://projectkhaled.com/img/bad-idea-cover.jpg
 tags:
   - Music
   - Artist Spotlight
