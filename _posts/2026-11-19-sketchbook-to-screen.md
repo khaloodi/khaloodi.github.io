@@ -71,3 +71,13 @@ So give the video another play. If a line sticks with you, try imagining it as a
 
 - [Anime Character Lab: A Beginner Drawing Workbook (paperback)](https://www.amazon.com/dp/B0HS6P891Q)
 - [Anime Character Lab: A Beginner Drawing Workbook (ebook)](https://www.amazon.com/dp/B0HS6CF3WX)
+- *The Glass Crown: The City That Forgot the Sun* (paperback, coming soon)
+- *The Glass Crown: The City That Forgot the Sun* (ebook, coming soon)
+
+---
+
+*ProjectKhaled reader resource*
+
+## Considering military service?
+
+If you’re exploring your options, [check eligibility requirements and find a recruiter for the branch you’re interested in on USA.gov](https://www.usa.gov/military-requirements).
