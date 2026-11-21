@@ -72,7 +72,6 @@ So give the video another play. If a line sticks with you, try imagining it as a
 - [Anime Character Lab: A Beginner Drawing Workbook (paperback)](https://www.amazon.com/dp/B0HS6P891Q)
 - [Anime Character Lab: A Beginner Drawing Workbook (ebook)](https://www.amazon.com/dp/B0HS6CF3WX)
 - [The Glass Crown: The City That Forgot the Sun (paperback)](https://www.amazon.com/dp/B0HSFP3R1N) 
-- *The Glass Crown: The City That Forgot the Sun* (ebook, coming soon)
 
 ---
 
